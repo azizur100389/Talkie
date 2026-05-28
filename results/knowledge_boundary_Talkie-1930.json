@@ -1,0 +1,12 @@
+{
+  "pre_1930": {
+    "correct": 9,
+    "total": 15,
+    "accuracy": 0.6
+  },
+  "post_1930": {
+    "correct": 0,
+    "total": 15,
+    "accuracy": 0.0
+  }
+}

@@ -1,0 +1,5 @@
+Task,Talkie-1930 slope,Talkie-1930 0-shot,Talkie-1930 32-shot,Talkie-1930 gain,Talkie-Web slope,Talkie-Web 0-shot,Talkie-Web 32-shot,Talkie-Web gain
+sst2,0.073,0.532,0.912,0.380,0.065,0.546,0.909,0.363
+mnli,0.021,0.356,0.473,0.117,0.003,0.354,0.378,0.024
+tweet_sentiment,0.024,0.300,0.484,0.184,0.035,0.439,0.589,0.150
+tweet_emotion,0.086,0.441,0.749,0.308,0.080,0.477,0.787,0.310

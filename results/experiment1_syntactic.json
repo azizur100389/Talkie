@@ -1,0 +1,198 @@
+{
+  "Talkie-1930": {
+    "blimp": {
+      "anaphor_agreement": {
+        "accuracy": 0.9565,
+        "total": 2000
+      },
+      "argument_structure": {
+        "accuracy": 0.7627777777777778,
+        "total": 9000
+      },
+      "binding": {
+        "accuracy": 0.6998571428571428,
+        "total": 7000
+      },
+      "control_raising": {
+        "accuracy": 0.7602,
+        "total": 5000
+      },
+      "determiner_noun_agreement": {
+        "accuracy": 0.958125,
+        "total": 8000
+      },
+      "ellipsis": {
+        "accuracy": 0.833,
+        "total": 2000
+      },
+      "filler_gap": {
+        "accuracy": 0.7202857142857143,
+        "total": 7000
+      },
+      "irregular_forms": {
+        "accuracy": 0.8865,
+        "total": 2000
+      },
+      "island_effects": {
+        "accuracy": 0.651375,
+        "total": 8000
+      },
+      "npi_licensing": {
+        "accuracy": 0.6737142857142857,
+        "total": 7000
+      },
+      "quantifiers": {
+        "accuracy": 0.832,
+        "total": 4000
+      },
+      "subject_verb_agreement": {
+        "accuracy": 0.7791666666666667,
+        "total": 6000
+      },
+      "__aggregate__": {
+        "accuracy": 0.7694626865671642,
+        "total": 67000
+      }
+    },
+    "syntaxgym": {
+      "SVA_simple": {
+        "accuracy": 1.0,
+        "total": 5,
+        "category": "subject_verb_agreement"
+      },
+      "SVA_attractor_1": {
+        "accuracy": 1.0,
+        "total": 5,
+        "category": "subject_verb_agreement"
+      },
+      "SVA_attractor_2": {
+        "accuracy": 1.0,
+        "total": 3,
+        "category": "subject_verb_agreement"
+      },
+      "NPI_simple": {
+        "accuracy": 1.0,
+        "total": 3,
+        "category": "npi_licensing"
+      },
+      "filler_gap_simple": {
+        "accuracy": 1.0,
+        "total": 2,
+        "category": "filler_gap"
+      },
+      "reflexive_binding": {
+        "accuracy": 1.0,
+        "total": 3,
+        "category": "binding"
+      },
+      "garden_path": {
+        "accuracy": 0.5,
+        "total": 2,
+        "category": "garden_path"
+      },
+      "RC_attachment": {
+        "accuracy": 1.0,
+        "total": 1,
+        "category": "relative_clause"
+      }
+    }
+  },
+  "Talkie-Web": {
+    "blimp": {
+      "anaphor_agreement": {
+        "accuracy": 0.993,
+        "total": 2000
+      },
+      "argument_structure": {
+        "accuracy": 0.8244444444444444,
+        "total": 9000
+      },
+      "binding": {
+        "accuracy": 0.795,
+        "total": 7000
+      },
+      "control_raising": {
+        "accuracy": 0.8002,
+        "total": 5000
+      },
+      "determiner_noun_agreement": {
+        "accuracy": 0.952125,
+        "total": 8000
+      },
+      "ellipsis": {
+        "accuracy": 0.88,
+        "total": 2000
+      },
+      "filler_gap": {
+        "accuracy": 0.7381428571428571,
+        "total": 7000
+      },
+      "irregular_forms": {
+        "accuracy": 0.922,
+        "total": 2000
+      },
+      "island_effects": {
+        "accuracy": 0.737,
+        "total": 8000
+      },
+      "npi_licensing": {
+        "accuracy": 0.753,
+        "total": 7000
+      },
+      "quantifiers": {
+        "accuracy": 0.83525,
+        "total": 4000
+      },
+      "subject_verb_agreement": {
+        "accuracy": 0.8406666666666667,
+        "total": 6000
+      },
+      "__aggregate__": {
+        "accuracy": 0.8195820895522388,
+        "total": 67000
+      }
+    },
+    "syntaxgym": {
+      "SVA_simple": {
+        "accuracy": 1.0,
+        "total": 5,
+        "category": "subject_verb_agreement"
+      },
+      "SVA_attractor_1": {
+        "accuracy": 1.0,
+        "total": 5,
+        "category": "subject_verb_agreement"
+      },
+      "SVA_attractor_2": {
+        "accuracy": 1.0,
+        "total": 3,
+        "category": "subject_verb_agreement"
+      },
+      "NPI_simple": {
+        "accuracy": 1.0,
+        "total": 3,
+        "category": "npi_licensing"
+      },
+      "filler_gap_simple": {
+        "accuracy": 1.0,
+        "total": 2,
+        "category": "filler_gap"
+      },
+      "reflexive_binding": {
+        "accuracy": 1.0,
+        "total": 3,
+        "category": "binding"
+      },
+      "garden_path": {
+        "accuracy": 0.5,
+        "total": 2,
+        "category": "garden_path"
+      },
+      "RC_attachment": {
+        "accuracy": 1.0,
+        "total": 1,
+        "category": "relative_clause"
+      }
+    }
+  }
+}

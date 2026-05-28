@@ -1,0 +1,126 @@
+{
+  "pre_1930": [
+    {
+      "prompt": "The inventor of the telephone was",
+      "expected": "Alexander Graham Bell"
+    },
+    {
+      "prompt": "The Titanic sank in the year",
+      "expected": "1912"
+    },
+    {
+      "prompt": "The theory of relativity was proposed by",
+      "expected": "Einstein"
+    },
+    {
+      "prompt": "The first modern Olympic Games were held in",
+      "expected": "Athens"
+    },
+    {
+      "prompt": "Charles Darwin is famous for the theory of",
+      "expected": "evolution"
+    },
+    {
+      "prompt": "The American Civil War ended in",
+      "expected": "1865"
+    },
+    {
+      "prompt": "The Eiffel Tower is located in",
+      "expected": "Paris"
+    },
+    {
+      "prompt": "Queen Victoria ruled over the",
+      "expected": "British"
+    },
+    {
+      "prompt": "The Suez Canal connects the Mediterranean to the",
+      "expected": "Red"
+    },
+    {
+      "prompt": "Napoleon was exiled to the island of",
+      "expected": "Saint Helena"
+    },
+    {
+      "prompt": "Marie Curie discovered the element",
+      "expected": "radium"
+    },
+    {
+      "prompt": "World War I began in the year",
+      "expected": "1914"
+    },
+    {
+      "prompt": "The Wright brothers are known for inventing the",
+      "expected": "airplane"
+    },
+    {
+      "prompt": "The Russian Revolution took place in",
+      "expected": "1917"
+    },
+    {
+      "prompt": "Abraham Lincoln was the president during the",
+      "expected": "Civil War"
+    }
+  ],
+  "post_1930": [
+    {
+      "prompt": "The first person to walk on the moon was",
+      "expected": "Neil Armstrong"
+    },
+    {
+      "prompt": "The Berlin Wall fell in the year",
+      "expected": "1989"
+    },
+    {
+      "prompt": "The structure of DNA was discovered by Watson and",
+      "expected": "Crick"
+    },
+    {
+      "prompt": "The first atomic bomb was dropped on",
+      "expected": "Hiroshima"
+    },
+    {
+      "prompt": "Nelson Mandela became president of",
+      "expected": "South Africa"
+    },
+    {
+      "prompt": "The World Wide Web was invented by",
+      "expected": "Tim Berners-Lee"
+    },
+    {
+      "prompt": "The Soviet Union collapsed in",
+      "expected": "1991"
+    },
+    {
+      "prompt": "The first iPhone was released in",
+      "expected": "2007"
+    },
+    {
+      "prompt": "Martin Luther King Jr. is known for his speech I Have a",
+      "expected": "Dream"
+    },
+    {
+      "prompt": "The Chernobyl nuclear disaster occurred in",
+      "expected": "1986"
+    },
+    {
+      "prompt": "Yuri Gagarin was the first human in",
+      "expected": "space"
+    },
+    {
+      "prompt": "The European Union was established in",
+      "expected": "1993"
+    },
+    {
+      "prompt": "The Hubble Space Telescope was launched in",
+      "expected": "1990"
+    },
+    {
+      "prompt": "GPS technology was developed by the",
+      "expected": "military"
+    },
+    {
+      "prompt": "The Cold War was between the United States and the",
+      "expected": "Soviet Union"
+    }
+  ]
+}

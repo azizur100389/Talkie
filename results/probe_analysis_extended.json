@@ -1,0 +1,255 @@
+{
+  "probe_c_detailed": {
+    "16": {
+      "per_class_f1": {
+        "should-know (pre-1930)": 0.9777777777777777,
+        "should-not-know (post-1930)": 0.9679012345679012,
+        "leaked": 0.625
+      },
+      "confusion_matrix": [
+        [
+          198,
+          2,
+          0
+        ],
+        [
+          3,
+          196,
+          0
+        ],
+        [
+          4,
+          8,
+          10
+        ]
+      ]
+    },
+    "20": {
+      "per_class_f1": {
+        "should-know (pre-1930)": 0.9727047146401985,
+        "should-not-know (post-1930)": 0.9680589680589681,
+        "leaked": 0.625
+      },
+      "confusion_matrix": [
+        [
+          196,
+          4,
+          0
+        ],
+        [
+          2,
+          197,
+          0
+        ],
+        [
+          5,
+          7,
+          10
+        ]
+      ]
+    },
+    "24": {
+      "per_class_f1": {
+        "should-know (pre-1930)": 0.9701492537313433,
+        "should-not-know (post-1930)": 0.9653465346534653,
+        "leaked": 0.6666666666666666
+      },
+      "confusion_matrix": [
+        [
+          195,
+          4,
+          1
+        ],
+        [
+          3,
+          195,
+          1
+        ],
+        [
+          4,
+          6,
+          12
+        ]
+      ]
+    },
+    "28": {
+      "per_class_f1": {
+        "should-know (pre-1930)": 0.9481481481481482,
+        "should-not-know (post-1930)": 0.9405940594059405,
+        "leaked": 0.6666666666666666
+      },
+      "confusion_matrix": [
+        [
+          192,
+          8,
+          0
+        ],
+        [
+          9,
+          190,
+          0
+        ],
+        [
+          4,
+          7,
+          11
+        ]
+      ]
+    },
+    "32": {
+      "per_class_f1": {
+        "should-know (pre-1930)": 0.9484029484029484,
+        "should-not-know (post-1930)": 0.9476309226932669,
+        "leaked": 0.6470588235294118
+      },
+      "confusion_matrix": [
+        [
+          193,
+          6,
+          1
+        ],
+        [
+          9,
+          190,
+          0
+        ],
+        [
+          5,
+          6,
+          11
+        ]
+      ]
+    }
+  },
+  "lexical_baselines": {
+    "probe_a_veracity": {
+      "tfidf_mean": 0.4717688679245283,
+      "tfidf_std": 0.0215026056688904
+    },
+    "probe_b_temporal": {
+      "tfidf_mean": 0.7744303797468355,
+      "tfidf_std": 0.028527142670293142
+    },
+    "probe_c_knowledge_boundary": {
+      "tfidf_mean": 0.7507282913165266,
+      "tfidf_std": 0.032391466991075375
+    }
+  },
+  "bootstrap_cis": {
+    "blimp_Talkie-1930": {
+      "mean": 0.7927917989417989,
+      "ci_95": [
+        0.7390084209656086,
+        0.850267560350529
+      ]
+    },
+    "blimp_Talkie-Web": {
+      "mean": 0.8392357473544975,
+      "ci_95": [
+        0.7955744990079364,
+        0.8863849131944445
+      ]
+    },
+    "blimp_gap": {
+      "mean_diff": 0.04644394841269842,
+      "ci_95": [
+        0.029116071428571467,
+        0.06359703621031745
+      ],
+      "p_value": 0.0
+    },
+    "icl_slope_Talkie-1930": {
+      "mean": 0.04954003685929763,
+      "ci_95": [
+        0.020565826267699795,
+        0.07851424745089547
+      ]
+    },
+    "icl_slope_Talkie-Web": {
+      "mean": 0.04807183538539234,
+      "ci_95": [
+        0.01843596291821279,
+        0.07770770785257189
+      ]
+    }
+  },
+  "mlp_robustness": {
+    "probe_a_veracity_Talkie-1930": {
+      "linear_acc": 0.7012735849056603,
+      "linear_layer": 24,
+      "mlp_acc": 0.7138522012578616,
+      "mlp_layer": 16,
+      "delta": 0.012578616352201366
+    },
+    "probe_a_veracity_Talkie-Web": {
+      "linear_acc": 0.8217452830188681,
+      "linear_layer": 24,
+      "mlp_acc": 0.7540172955974842,
+      "mlp_layer": 20,
+      "delta": -0.06772798742138386
+    },
+    "probe_b_temporal_Talkie-1930": {
+      "linear_acc": 0.9824367088607595,
+      "linear_layer": 16,
+      "mlp_acc": 0.969873417721519,
+      "mlp_layer": 20,
+      "delta": -0.012563291139240484
+    },
+    "probe_b_temporal_Talkie-Web": {
+      "linear_acc": 0.9949999999999999,
+      "linear_layer": 20,
+      "mlp_acc": 0.97,
+      "mlp_layer": 32,
+      "delta": -0.02499999999999991
+    },
+    "probe_c_knowledge_boundary_Talkie-1930": {
+      "linear_acc": 0.9596358543417367,
+      "linear_layer": 16,
+      "mlp_acc": 0.9358823529411765,
+      "mlp_layer": 20,
+      "delta": -0.023753501400560206
+    }
+  },
+  "permutation_baseline": {
+    "probe_a_veracity_Talkie-1930": {
+      "real_acc": 0.7012735849056603,
+      "perm_mean": 0.5009225628930818,
+      "perm_std": 0.023830865446019447,
+      "p_value": 0.0,
+      "n_permutations": 20,
+      "layer": 24
+    },
+    "probe_a_veracity_Talkie-Web": {
+      "real_acc": 0.8217452830188681,
+      "perm_mean": 0.4986179245283019,
+      "perm_std": 0.024212738963732806,
+      "p_value": 0.0,
+      "n_permutations": 20,
+      "layer": 24
+    },
+    "probe_b_temporal_Talkie-1930": {
+      "real_acc": 0.9824367088607595,
+      "perm_mean": 0.5000268987341772,
+      "perm_std": 0.02953535835818517,
+      "p_value": 0.0,
+      "n_permutations": 20,
+      "layer": 16
+    },
+    "probe_b_temporal_Talkie-Web": {
+      "real_acc": 0.9949999999999999,
+      "perm_mean": 0.49484810126582285,
+      "perm_std": 0.026508306888239328,
+      "p_value": 0.0,
+      "n_permutations": 20,
+      "layer": 20
+    },
+    "probe_c_knowledge_boundary_Talkie-1930": {
+      "real_acc": 0.9596358543417367,
+      "perm_mean": 0.4755602240896358,
+      "perm_std": 0.02889739563992402,
+      "p_value": 0.0,
+      "n_permutations": 20,
+      "layer": 16
+    }
+  }
+}

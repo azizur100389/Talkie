@@ -1,0 +1,202 @@
+{
+  "Talkie-1930": [
+    {
+      "prompt": "The inventor of the telephone was",
+      "expected": "Alexander Graham Bell",
+      "period": "pre-1930",
+      "completion": "a poor man, and he had to work hard to get the money to pay for the patent. He had to sell his patent to a company,",
+      "correct": false
+    },
+    {
+      "prompt": "The Titanic sank in the year",
+      "expected": "1912",
+      "period": "pre-1930",
+      "completion": "1912, and the Lusitania in 1915. The Titanic was the largest ship afloat at the time of her loss, and the",
+      "correct": true
+    },
+    {
+      "prompt": "The theory of relativity was proposed by",
+      "expected": "Einstein",
+      "period": "pre-1930",
+      "completion": "Einstein in 1905, and has been developed by him and others since that time. It is based on the assumption that the laws of nature",
+      "correct": true
+    },
+    {
+      "prompt": "The Eiffel Tower is located in",
+      "expected": "Paris",
+      "period": "pre-1930",
+      "completion": "the Champ de Mars, and is the most conspicuous object in the Exposition. It is 984 feet high, and is the highest structure in the world",
+      "correct": false
+    },
+    {
+      "prompt": "Marie Curie discovered the element",
+      "expected": "radium",
+      "period": "pre-1930",
+      "completion": "radium, and with her husband, Pierre Curie, made the first experiments with it. She was the first woman to receive the Nobel prize for",
+      "correct": true
+    },
+    {
+      "prompt": "World War I began in the year",
+      "expected": "1914",
+      "period": "pre-1930",
+      "completion": "1914, and the first year of the war was the most disastrous for the Allies. The Germans had the advantage of being on the defensive,",
+      "correct": true
+    },
+    {
+      "prompt": "The first person to walk on the moon was",
+      "expected": "Neil Armstrong",
+      "period": "post-1930",
+      "completion": "a man named Seleneus, who was so light that he could not be seen. He was followed by a man named Endymion, who",
+      "correct": false
+    },
+    {
+      "prompt": "The Berlin Wall fell in the year",
+      "expected": "1989",
+      "period": "post-1930",
+      "completion": "1845, and the last of the old gates was removed in 1851. The new gates are of iron, and are of the same",
+      "correct": false
+    },
+    {
+      "prompt": "The structure of DNA was discovered by Watson and",
+      "expected": "Crick",
+      "period": "post-1930",
+      "completion": "confirmed by the writer. The structure of the other two is not known. The structure of the first two is shown in Fig. 1. The",
+      "correct": false
+    },
+    {
+      "prompt": "The first atomic bomb was dropped on",
+      "expected": "Hiroshima",
+      "period": "post-1930",
+      "completion": "the earth in 1920. It was a small bomb, weighing only 100 pounds, and it was dropped from a height of 100 feet",
+      "correct": false
+    },
+    {
+      "prompt": "The World Wide Web was invented by",
+      "expected": "Tim Berners-Lee",
+      "period": "post-1930",
+      "completion": "the late Mr. John B. Stetson, of Philadelphia, and is the only machine in the world that will weave a hat body of any size,",
+      "correct": false
+    },
+    {
+      "prompt": "The first iPhone was released in",
+      "expected": "2007",
+      "period": "post-1930",
+      "completion": "1876, and the first patent was taken out in 1877. The first telephone exchange was opened in 1878, and the first",
+      "correct": false
+    },
+    {
+      "prompt": "The Chernobyl nuclear disaster occurred in",
+      "expected": "1986",
+      "period": "post-1930",
+      "completion": "the early part of 1927. The Chernobyl was a large, well-equipped, and well-manned vessel, which had been",
+      "correct": false
+    },
+    {
+      "prompt": "The Soviet Union collapsed in",
+      "expected": "1991",
+      "period": "post-1930",
+      "completion": "1932, and the Communist Party was dissolved. The Soviet Union was replaced by the U.S.S.R. (Union of Socialist Soviet Republic",
+      "correct": false
+    }
+  ],
+  "Talkie-Web": [
+    {
+      "prompt": "The inventor of the telephone was",
+      "expected": "Alexander Graham Bell",
+      "period": "pre-1930",
+      "completion": "Alexander Graham Bell. He was born in Scotland in 1847. He was the son of a teacher and a doctor. He was a very intelligent",
+      "correct": true
+    },
+    {
+      "prompt": "The Titanic sank in the year",
+      "expected": "1912",
+      "period": "pre-1930",
+      "completion": "1912. The Titanic was a British passenger liner that sank in the North Atlantic Ocean in the early morning hours of 15 April 1912",
+      "correct": true
+    },
+    {
+      "prompt": "The theory of relativity was proposed by",
+      "expected": "Einstein",
+      "period": "pre-1930",
+      "completion": "Albert Einstein in 1905. It is a theory that describes the relationship between space and time. It is based on the idea that space and time",
+      "correct": true
+    },
+    {
+      "prompt": "The Eiffel Tower is located in",
+      "expected": "Paris",
+      "period": "pre-1930",
+      "completion": "Paris, France. It was built in 1889 and is 324 meters tall. The tower is made of iron and was designed by Gustave",
+      "correct": true
+    },
+    {
+      "prompt": "Marie Curie discovered the element",
+      "expected": "radium",
+      "period": "pre-1930",
+      "completion": "radium in 1898. She was the first woman to win a Nobel Prize, and the first person to win two Nobel Prizes. She was",
+      "correct": true
+    },
+    {
+      "prompt": "World War I began in the year",
+      "expected": "1914",
+      "period": "pre-1930",
+      "completion": "1914. The war was fought between the Allied Powers and the Central Powers. The Allied Powers included the United Kingdom, France, Russia, Italy",
+      "correct": true
+    },
+    {
+      "prompt": "The first person to walk on the moon was",
+      "expected": "Neil Armstrong",
+      "period": "post-1930",
+      "completion": "Neil Armstrong. He was the first person to walk on the moon. He was the first person to walk on the moon. He was the first person",
+      "correct": true
+    },
+    {
+      "prompt": "The Berlin Wall fell in the year",
+      "expected": "1989",
+      "period": "post-1930",
+      "completion": "1989. The Berlin Wall was a wall that separated East Berlin from West Berlin. The Berlin Wall was built in 1961. The Berlin",
+      "correct": true
+    },
+    {
+      "prompt": "The structure of DNA was discovered by Watson and",
+      "expected": "Crick",
+      "period": "post-1930",
+      "completion": "Crick in 1953. The structure of DNA is a double helix, which is a spiral staircase. The DNA is made up of two",
+      "correct": true
+    },
+    {
+      "prompt": "The first atomic bomb was dropped on",
+      "expected": "Hiroshima",
+      "period": "post-1930",
+      "completion": "Hiroshima on August 6, 1945. The second was dropped on Nagasaki on August 9, 1945. The Japanese surrendered on",
+      "correct": true
+    },
+    {
+      "prompt": "The World Wide Web was invented by",
+      "expected": "Tim Berners-Lee",
+      "period": "post-1930",
+      "completion": "Tim Berners-Lee in 1989. The first website was created in 1991. The first website was created by Tim Berners-L",
+      "correct": true
+    },
+    {
+      "prompt": "The first iPhone was released in",
+      "expected": "2007",
+      "period": "post-1930",
+      "completion": "2007, and the first iPad in 2010. The iPhone 4S was released in 2011, and the i",
+      "correct": true
+    },
+    {
+      "prompt": "The Chernobyl nuclear disaster occurred in",
+      "expected": "1986",
+      "period": "post-1930",
+      "completion": "the Soviet Union on April 26, 1986. The explosion at the Chernobyl Nuclear Power Plant in Ukraine was the worst nuclear accident in",
+      "correct": true
+    },
+    {
+      "prompt": "The Soviet Union collapsed in",
+      "expected": "1991",
+      "period": "post-1930",
+      "completion": "1991, and the United States emerged as the world’s sole superpower. The United States was the only country with the military and economic power to",
+      "correct": true
+    }
+  ]
+}

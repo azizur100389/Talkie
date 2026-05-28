@@ -1,0 +1,586 @@
+{
+  "all_results": [
+    {
+      "prompt": "The planet Pluto was discovered in the year",
+      "expected": "1930",
+      "year": 1930,
+      "completion": "1892 by M. Charlois, of Nice, France. It is a very small planet, being only about 10 miles in diamet",
+      "correct": false
+    },
+    {
+      "prompt": "The Empire State Building was completed in",
+      "expected": "1931",
+      "year": 1931,
+      "completion": "1892, and is one of the most imposing structures in the city. It is built of granite, brick and terr",
+      "correct": false
+    },
+    {
+      "prompt": "Franklin Roosevelt was first elected president in",
+      "expected": "1932",
+      "year": 1932,
+      "completion": "1924. He was reelected in 1928. He was born in New York City in 1879. He was educated at Harvard Uni",
+      "correct": false
+    },
+    {
+      "prompt": "Adolf Hitler became Chancellor of Germany in",
+      "expected": "1933",
+      "year": 1933,
+      "completion": "1933. He was the first Chancellor to be elected by the Reichstag. He was the first Chancellor to be ",
+      "correct": true
+    },
+    {
+      "prompt": "The Dust Bowl devastated the American",
+      "expected": "Great Plains",
+      "year": 1934,
+      "completion": "League race. The Athletics won the pennant and the world series. The Athletics won the pennant becau",
+      "correct": false
+    },
+    {
+      "prompt": "The Hoover Dam was completed in the year",
+      "expected": "1935",
+      "year": 1935,
+      "completion": "1929. It is located on the Colorado River, 50 miles above the city of Yuma, Arizona. The dam is 1,08",
+      "correct": false
+    },
+    {
+      "prompt": "Jesse Owens won four gold medals at the Olympics in",
+      "expected": "Berlin",
+      "year": 1936,
+      "completion": "1908. He is a member of the New York Athletic Club and the Irish-American Athletic Club. He is a mem",
+      "correct": false
+    },
+    {
+      "prompt": "The Hindenburg disaster occurred in",
+      "expected": "1937",
+      "year": 1937,
+      "completion": "the early days of the war, when the Germans were still in the ascendant. The British were driven bac",
+      "correct": false
+    },
+    {
+      "prompt": "Nylon was first commercially produced by",
+      "expected": "DuPont",
+      "year": 1938,
+      "completion": "the late Sir Hiram Maxim, who, in 1886, took out a patent for the manufacture of artificial silk fro",
+      "correct": false
+    },
+    {
+      "prompt": "Germany invaded Poland in September",
+      "expected": "1939",
+      "year": 1939,
+      "completion": ", 1914, and the Russians were driven back to the Vistula. The Germans then turned their attention to",
+      "correct": false
+    },
+    {
+      "prompt": "The Golden Gate Bridge is located in",
+      "expected": "San Francisco",
+      "year": 1937,
+      "completion": "the city of San Francisco, California, and is a part of the highway system of the State of Californi",
+      "correct": true
+    },
+    {
+      "prompt": "The New Deal was a series of programs by President",
+      "expected": "Roosevelt",
+      "year": 1933,
+      "completion": "Roosevelt, which were intended to be of benefit to the country. The first was the appointment of a c",
+      "correct": true
+    },
+    {
+      "prompt": "Amelia Earhart disappeared over the Pacific in",
+      "expected": "1937",
+      "year": 1937,
+      "completion": "a plane piloted by Wilmer Stultz, and the plane was not heard from for 48 hours. The plane was found",
+      "correct": false
+    },
+    {
+      "prompt": "The Spanish Civil War began in",
+      "expected": "1936",
+      "year": 1936,
+      "completion": "1873, and the Carlist War in 1874. The Carlists were defeated in 1876, and Don Carlos fled to France",
+      "correct": false
+    },
+    {
+      "prompt": "Penicillin was first used as a medicine by Alexander",
+      "expected": "Fleming",
+      "year": 1929,
+      "completion": ", a physician of the sixteenth century. It was introduced into the United States in 1900 by Dr. J. W",
+      "correct": false
+    },
+    {
+      "prompt": "The stock market crashed in October",
+      "expected": "1929",
+      "year": 1929,
+      "completion": ", 1929, and the stock market crash was followed by a business depression. The business depression wa",
+      "correct": true
+    },
+    {
+      "prompt": "The Great Depression began in the year",
+      "expected": "1929",
+      "year": 1929,
+      "completion": "1873, and continued until 1879. The year 1878 was the worst of all. The depression was caused by the",
+      "correct": false
+    },
+    {
+      "prompt": "Mahatma Gandhi led the Salt March in",
+      "expected": "1930",
+      "year": 1930,
+      "completion": "1922, and the Civil Disobedience Movement in 1924. He was arrested in 1925, and sentenced to six yea",
+      "correct": false
+    },
+    {
+      "prompt": "The Nazis held the Nuremberg rallies in the city of",
+      "expected": "Nuremberg",
+      "year": 1933,
+      "completion": "Nuremberg, and the Bavarian Fascists held theirs in the city of Munich. The Bavarian Fascists were t",
+      "correct": true
+    },
+    {
+      "prompt": "Japan invaded Manchuria in",
+      "expected": "1931",
+      "year": 1931,
+      "completion": "1894, and the war with China was ended by the treaty of Shimonoseki, April 17, 1895. By this",
+      "correct": false
+    },
+    {
+      "prompt": "World War II began in the year",
+      "expected": "1939",
+      "year": 1939,
+      "completion": "1914. The first year of the war was the most disastrous for the Allies. The Germans were victorious ",
+      "correct": false
+    },
+    {
+      "prompt": "The Battle of Britain was fought in",
+      "expected": "1940",
+      "year": 1940,
+      "completion": "the year 449, and the Saxons were defeated. The Britons, however, were not able to drive them out of",
+      "correct": false
+    },
+    {
+      "prompt": "Japan attacked Pearl Harbor on December 7,",
+      "expected": "1941",
+      "year": 1941,
+      "completion": "1914, and the United States took possession of it on December 15, 1917. The Japanese have been in po",
+      "correct": false
+    },
+    {
+      "prompt": "The Battle of Stalingrad took place in",
+      "expected": "1942",
+      "year": 1942,
+      "completion": "the early days of September, 1914. The Russians were driven back, and the Germans occupied the town.",
+      "correct": false
+    },
+    {
+      "prompt": "D-Day, the Allied invasion of Normandy, occurred in",
+      "expected": "1944",
+      "year": 1944,
+      "completion": "1417. The English, under the Duke of Clarence, landed at Harfleur, which they besieged and took. The",
+      "correct": false
+    },
+    {
+      "prompt": "The United Nations was founded in",
+      "expected": "1945",
+      "year": 1945,
+      "completion": "1929, and the League of Nations in 1919. The United Nations is a federation of the nations of the wo",
+      "correct": false
+    },
+    {
+      "prompt": "The atomic bomb was first tested at",
+      "expected": "Trinity",
+      "year": 1945,
+      "completion": "the Bureau of Standards in 1923. It was found that the bomb could be used to determine the atomic we",
+      "correct": false
+    },
+    {
+      "prompt": "Anne Frank wrote her diary while hiding in",
+      "expected": "Amsterdam",
+      "year": 1942,
+      "completion": "the woods. She was a young girl of sixteen, and was captured by the Indians in 1755. She was taken t",
+      "correct": false
+    },
+    {
+      "prompt": "The Manhattan Project developed the first",
+      "expected": "atomic",
+      "year": 1942,
+      "completion": "of the new types of buildings, the skyscraper, and the first of the new types of transportation, the",
+      "correct": false
+    },
+    {
+      "prompt": "Radar technology was crucial in the Battle of",
+      "expected": "Britain",
+      "year": 1940,
+      "completion": "the Marne. The French had no heavy artillery, and the Germans had no light artillery. The French had",
+      "correct": false
+    },
+    {
+      "prompt": "The Marshall Plan helped rebuild",
+      "expected": "Europe",
+      "year": 1948,
+      "completion": "the city of Baltimore. It will help rebuild your city. It will help you to build a business that wil",
+      "correct": false
+    },
+    {
+      "prompt": "The State of Israel was established in",
+      "expected": "1948",
+      "year": 1948,
+      "completion": "the land of Canaan, and the people were in possession of the promised inheritance. The tabernacle wa",
+      "correct": false
+    },
+    {
+      "prompt": "NATO was established in the year",
+      "expected": "1949",
+      "year": 1949,
+      "completion": "1870, and is the oldest and largest bank in Southern California.\n\n\nOFFICERS: I. W. HELLMAN, Presiden",
+      "correct": false
+    },
+    {
+      "prompt": "The Korean War began in",
+      "expected": "1950",
+      "year": 1950,
+      "completion": "1894, and the Japanese were victorious in every engagement. The Korean Government was overthrown, an",
+      "correct": false
+    },
+    {
+      "prompt": "Queen Elizabeth II became queen in",
+      "expected": "1952",
+      "year": 1952,
+      "completion": "1858. She was the daughter of Henry VIII and Anne Boleyn. She was born in 1888 and was crowned in 18",
+      "correct": false
+    },
+    {
+      "prompt": "The double helix structure of DNA was discovered in",
+      "expected": "1953",
+      "year": 1953,
+      "completion": "1925 by the writer, who found that the helices were not only double but that they were also of diffe",
+      "correct": false
+    },
+    {
+      "prompt": "Rosa Parks refused to give up her seat in",
+      "expected": "1955",
+      "year": 1955,
+      "completion": "the car to a man, and was arrested for disorderly conduct. She was fined $5 and costs in the police ",
+      "correct": false
+    },
+    {
+      "prompt": "Sputnik, the first artificial satellite, was launched by the",
+      "expected": "Soviet",
+      "year": 1957,
+      "completion": "Germans in 1915. It was a small, light, and fast machine, with a 100 h.p. Mercedes engine, and was",
+      "correct": false
+    },
+    {
+      "prompt": "The European Economic Community was established in",
+      "expected": "1957",
+      "year": 1957,
+      "completion": "1920, and the first meeting of the Council was held in London in May of that year. The Council is co",
+      "correct": false
+    },
+    {
+      "prompt": "Fidel Castro came to power in Cuba in",
+      "expected": "1959",
+      "year": 1959,
+      "completion": "1906, and he was the first to make a serious attempt to solve the problem of the unemployed. He esta",
+      "correct": false
+    },
+    {
+      "prompt": "The Cuban Missile Crisis occurred in",
+      "expected": "1962",
+      "year": 1962,
+      "completion": "1895, when the United States intervened and established a protectorate over the island. The Spanish-",
+      "correct": false
+    },
+    {
+      "prompt": "John F. Kennedy was assassinated in",
+      "expected": "1963",
+      "year": 1963,
+      "completion": "the streets of Dublin, and the news of his death was received with the utmost consternation by the I",
+      "correct": false
+    },
+    {
+      "prompt": "The Civil Rights Act was signed in",
+      "expected": "1964",
+      "year": 1964,
+      "completion": "1866, and the first case under it was decided in 1867. The first case under the Fourteenth Amendment",
+      "correct": false
+    },
+    {
+      "prompt": "The first heart transplant was performed by",
+      "expected": "Barnard",
+      "year": 1967,
+      "completion": "Carrel in 1913. He used the heart of a dog as a transplant in the heart of a cat. The transplant liv",
+      "correct": false
+    },
+    {
+      "prompt": "Woodstock music festival took place in",
+      "expected": "1969",
+      "year": 1969,
+      "completion": "the Town Hall, on the 2nd and 3rd inst. The principal vocalists were Madame Lemmens-Sherrington, Mis",
+      "correct": false
+    },
+    {
+      "prompt": "The Watergate scandal involved President",
+      "expected": "Nixon",
+      "year": 1972,
+      "completion": "Roosevelt in a controversy with the Senate. The President had appointed William D. Crum, a negro, to",
+      "correct": false
+    },
+    {
+      "prompt": "The Vietnam War ended in",
+      "expected": "1975",
+      "year": 1975,
+      "completion": "1815, and the British troops were withdrawn from the island. The Dutch, however, were not able to ma",
+      "correct": false
+    },
+    {
+      "prompt": "The Camp David Accords were signed by",
+      "expected": "Carter",
+      "year": 1978,
+      "completion": "the following: David A. Camp, president; J. H. Camp, vice-president; J. H. Camp, Jr., secretary and ",
+      "correct": false
+    },
+    {
+      "prompt": "Margaret Thatcher became Prime Minister in",
+      "expected": "1979",
+      "year": 1979,
+      "completion": "1916, and was succeeded by Mr. W. M. Hughes in 1917. Mr. Hughes was succeeded by Mr. W.",
+      "correct": false
+    },
+    {
+      "prompt": "The AIDS epidemic was first identified in",
+      "expected": "1981",
+      "year": 1981,
+      "completion": "the United States in 1917, when it was reported from New York City. Since that time it has been repo",
+      "correct": false
+    },
+    {
+      "prompt": "The Falklands War was between Britain and",
+      "expected": "Argentina",
+      "year": 1982,
+      "completion": "Spain, and was fought in 1779. The Falkland Islands are a group in the South Atlantic, about 300 mil",
+      "correct": false
+    },
+    {
+      "prompt": "The Internet was originally developed by",
+      "expected": "DARPA",
+      "year": 1969,
+      "completion": "the late Mr. J. H. \n\nCunningham, of the Indian Civil Service, and is now published by his widow, Mrs",
+      "correct": false
+    },
+    {
+      "prompt": "The first personal computer was the",
+      "expected": "Apple",
+      "year": 1977,
+      "completion": "late Mr. J. W. L. Glaisher, who was appointed in 1871. He was succeeded in 1881 by Mr.",
+      "correct": false
+    },
+    {
+      "prompt": "Mikhail Gorbachev introduced the policy of",
+      "expected": "perestroika",
+      "year": 1986,
+      "completion": "the “open door” in the Far East, and the Russian Government, in 1896, concluded a treaty with China,",
+      "correct": false
+    },
+    {
+      "prompt": "Nelson Mandela was released from prison in",
+      "expected": "1990",
+      "year": 1990,
+      "completion": "New York on the 18th, after serving a term of two years for passing counterfeit money. He was arrest",
+      "correct": false
+    },
+    {
+      "prompt": "Alexander Fleming discovered penicillin in",
+      "expected": "1928",
+      "year": 1928,
+      "completion": "1925. It is a polyvalent bacteriophage, and is prepared by growing B. coli in a medium containing 0.",
+      "correct": false
+    },
+    {
+      "prompt": "The first Academy Awards ceremony was held in",
+      "expected": "1929",
+      "year": 1929,
+      "completion": "1903, when the late Sir William Richmond, R.A., was the recipient of the Gold Medal. The first recip",
+      "correct": false
+    },
+    {
+      "prompt": "The Chrysler Building was completed in New York in",
+      "expected": "1930",
+      "year": 1930,
+      "completion": "1926. It is 50 stories high, 1,000 feet above the street level, and is the tallest building in the w",
+      "correct": false
+    },
+    {
+      "prompt": "The Star-Spangled Banner became the national anthem in",
+      "expected": "1931",
+      "year": 1931,
+      "completion": "1861, when it was adopted by Congress. It was written by Francis Scott Key, a lawyer of Baltimore, w",
+      "correct": false
+    },
+    {
+      "prompt": "Aldous Huxley published Brave New World in",
+      "expected": "1932",
+      "year": 1932,
+      "completion": "1927. It is a book of short stories, and the best of them is The Last of the Barons. It is a story o",
+      "correct": false
+    },
+    {
+      "prompt": "The first FIFA World Cup was held in",
+      "expected": "Uruguay",
+      "year": 1930,
+      "completion": "1924, and was won by the United States. The second was held in 1925, and was won by the United State",
+      "correct": false
+    },
+    {
+      "prompt": "The Smoot-Hawley Tariff Act was signed in",
+      "expected": "1930",
+      "year": 1930,
+      "completion": "the White House on June 17, 1930. The President’s signature was affixed to the bill at 11:30 a. m.",
+      "correct": true
+    },
+    {
+      "prompt": "Edwin Hubble showed that the universe is",
+      "expected": "expanding",
+      "year": 1929,
+      "completion": "not a mere machine, but a living organism, and that the laws of nature are not mere laws, but the ex",
+      "correct": false
+    },
+    {
+      "prompt": "The neutron was discovered by James",
+      "expected": "Chadwick",
+      "year": 1932,
+      "completion": "Robinson, a chemist, who was working in the laboratory of the University of Chicago. He was trying t",
+      "correct": false
+    },
+    {
+      "prompt": "Dirac predicted the existence of the",
+      "expected": "positron",
+      "year": 1931,
+      "completion": "planet Neptune, and the discovery of the planet was made by Adams and Leverrier, who had worked out ",
+      "correct": false
+    },
+    {
+      "prompt": "Kurt Godel published his incompleteness theorems in",
+      "expected": "1931",
+      "year": 1931,
+      "completion": "the Mathematische Annalen, Vol. 58, 1903, pp. 1-16. The first theorem is as follows: If",
+      "correct": false
+    },
+    {
+      "prompt": "Heavy water was discovered in",
+      "expected": "1932",
+      "year": 1932,
+      "completion": "the well at the corner of Main and Second streets, and the well was abandoned. The water was found t",
+      "correct": false
+    },
+    {
+      "prompt": "The first talking motion picture was The Jazz",
+      "expected": "Singer",
+      "year": 1927,
+      "completion": "Singer\" which was made by Warner Brothers. The first talking picture to be released was \"The Singing",
+      "correct": true
+    },
+    {
+      "prompt": "Mickey Mouse first appeared in the cartoon Steamboat",
+      "expected": "Willie",
+      "year": 1928,
+      "completion": "Bill\" and was the first of the famous Mickey Mouse\" series. The cartoon was published in the New Yor",
+      "correct": false
+    },
+    {
+      "prompt": "Gone with the Wind was published by Margaret",
+      "expected": "Mitchell",
+      "year": 1936,
+      "completion": "Widdemer in the Century Magazine for October, 1919. It is a poem of the sea, and the wind is the spi",
+      "correct": false
+    },
+    {
+      "prompt": "Walt Disney released the first full-length animated film Snow White in",
+      "expected": "1937",
+      "year": 1937,
+      "completion": "1913. The first full-length animated cartoon was made by Walt Disney in 1914. The first animated car",
+      "correct": false
+    }
+  ],
+  "leaked_candidates": [
+    {
+      "prompt": "Adolf Hitler became Chancellor of Germany in",
+      "expected": "1933",
+      "year": 1933,
+      "completion": "1933. He was the first Chancellor to be elected by the Reichstag. He was the first Chancellor to be ",
+      "correct": true
+    },
+    {
+      "prompt": "The Golden Gate Bridge is located in",
+      "expected": "San Francisco",
+      "year": 1937,
+      "completion": "the city of San Francisco, California, and is a part of the highway system of the State of Californi",
+      "correct": true
+    },
+    {
+      "prompt": "The New Deal was a series of programs by President",
+      "expected": "Roosevelt",
+      "year": 1933,
+      "completion": "Roosevelt, which were intended to be of benefit to the country. The first was the appointment of a c",
+      "correct": true
+    },
+    {
+      "prompt": "The stock market crashed in October",
+      "expected": "1929",
+      "year": 1929,
+      "completion": ", 1929, and the stock market crash was followed by a business depression. The business depression wa",
+      "correct": true
+    },
+    {
+      "prompt": "The Nazis held the Nuremberg rallies in the city of",
+      "expected": "Nuremberg",
+      "year": 1933,
+      "completion": "Nuremberg, and the Bavarian Fascists held theirs in the city of Munich. The Bavarian Fascists were t",
+      "correct": true
+    },
+    {
+      "prompt": "The Smoot-Hawley Tariff Act was signed in",
+      "expected": "1930",
+      "year": 1930,
+      "completion": "the White House on June 17, 1930. The President’s signature was affixed to the bill at 11:30 a. m.",
+      "correct": true
+    },
+    {
+      "prompt": "The first talking motion picture was The Jazz",
+      "expected": "Singer",
+      "year": 1927,
+      "completion": "Singer\" which was made by Warner Brothers. The first talking picture to be released was \"The Singing",
+      "correct": true
+    }
+  ],
+  "by_decade": {
+    "1930": {
+      "correct": 5,
+      "total": 29
+    },
+    "1920": {
+      "correct": 2,
+      "total": 8
+    },
+    "1940": {
+      "correct": 0,
+      "total": 12
+    },
+    "1950": {
+      "correct": 0,
+      "total": 7
+    },
+    "1960": {
+      "correct": 0,
+      "total": 6
+    },
+    "1970": {
+      "correct": 0,
+      "total": 5
+    },
+    "1980": {
+      "correct": 0,
+      "total": 3
+    },
+    "1990": {
+      "correct": 0,
+      "total": 1
+    }
+  }
+}

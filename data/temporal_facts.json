@@ -1,0 +1,3275 @@
+{
+  "pre_1930_true": [
+    {
+      "text": "Marie Curie won the Nobel Prize in Physics.",
+      "year": 1903
+    },
+    {
+      "text": "The Titanic sank on its maiden voyage in April 1912.",
+      "year": 1912
+    },
+    {
+      "text": "World War I began in 1914.",
+      "year": 1914
+    },
+    {
+      "text": "The theory of general relativity was published by Albert Einstein.",
+      "year": 1915
+    },
+    {
+      "text": "Women gained the right to vote in the United States in 1920.",
+      "year": 1920
+    },
+    {
+      "text": "The Panama Canal opened for commercial traffic in 1914.",
+      "year": 1914
+    },
+    {
+      "text": "Charles Darwin published On the Origin of Species in 1859.",
+      "year": 1859
+    },
+    {
+      "text": "Abraham Lincoln was assassinated in 1865.",
+      "year": 1865
+    },
+    {
+      "text": "The telephone was invented by Alexander Graham Bell.",
+      "year": 1876
+    },
+    {
+      "text": "The Wright brothers made their first powered flight in 1903.",
+      "year": 1903
+    },
+    {
+      "text": "Queen Victoria ruled the British Empire for over sixty years.",
+      "year": 1901
+    },
+    {
+      "text": "The Russian Revolution took place in 1917.",
+      "year": 1917
+    },
+    {
+      "text": "Mark Twain wrote The Adventures of Huckleberry Finn.",
+      "year": 1884
+    },
+    {
+      "text": "The Eiffel Tower was built for the 1889 World's Fair in Paris.",
+      "year": 1889
+    },
+    {
+      "text": "Louis Pasteur developed the process of pasteurisation.",
+      "year": 1864
+    },
+    {
+      "text": "The first modern Olympic Games were held in Athens in 1896.",
+      "year": 1896
+    },
+    {
+      "text": "Thomas Edison invented the phonograph in 1877.",
+      "year": 1877
+    },
+    {
+      "text": "Napoleon Bonaparte was exiled to Saint Helena.",
+      "year": 1815
+    },
+    {
+      "text": "The Suez Canal opened in 1869.",
+      "year": 1869
+    },
+    {
+      "text": "Sigmund Freud published The Interpretation of Dreams in 1899.",
+      "year": 1899
+    },
+    {
+      "text": "The American Civil War ended in 1865.",
+      "year": 1865
+    },
+    {
+      "text": "Guglielmo Marconi transmitted the first transatlantic radio signal in 1901.",
+      "year": 1901
+    },
+    {
+      "text": "The Treaty of Versailles was signed in 1919.",
+      "year": 1919
+    },
+    {
+      "text": "Nikola Tesla demonstrated alternating current electricity.",
+      "year": 1893
+    },
+    {
+      "text": "The first subway system in the United States opened in Boston in 1897.",
+      "year": 1897
+    },
+    {
+      "text": "Florence Nightingale pioneered modern nursing practices.",
+      "year": 1860
+    },
+    {
+      "text": "The periodic table of elements was created by Dmitri Mendeleev.",
+      "year": 1869
+    },
+    {
+      "text": "The Great San Francisco Earthquake occurred in 1906.",
+      "year": 1906
+    },
+    {
+      "text": "The League of Nations was established after World War I.",
+      "year": 1920
+    },
+    {
+      "text": "Roald Amundsen was the first person to reach the South Pole.",
+      "year": 1911
+    },
+    {
+      "text": "The Boxer Rebellion took place in China in 1900.",
+      "year": 1900
+    },
+    {
+      "text": "Karl Marx published Das Kapital in 1867.",
+      "year": 1867
+    },
+    {
+      "text": "The first successful blood transfusion between humans was performed in 1818.",
+      "year": 1818
+    },
+    {
+      "text": "The Meiji Restoration transformed Japan beginning in 1868.",
+      "year": 1868
+    },
+    {
+      "text": "Alfred Nobel established the Nobel Prize through his will in 1895.",
+      "year": 1895
+    },
+    {
+      "text": "The Boer War was fought between Britain and Dutch settlers in South Africa.",
+      "year": 1899
+    },
+    {
+      "text": "Leo Tolstoy wrote War and Peace.",
+      "year": 1869
+    },
+    {
+      "text": "The Louisiana Purchase doubled the territory of the United States in 1803.",
+      "year": 1803
+    },
+    {
+      "text": "The Crimean War was fought between Russia and an alliance of European powers.",
+      "year": 1853
+    },
+    {
+      "text": "Joseph Lister introduced antiseptic surgery in the 1860s.",
+      "year": 1867
+    },
+    {
+      "text": "The Trans-Siberian Railway began construction in 1891.",
+      "year": 1891
+    },
+    {
+      "text": "The Ottoman Empire lost most of its European territory during the Balkan Wars.",
+      "year": 1912
+    },
+    {
+      "text": "Robert Koch identified the bacterium that causes tuberculosis in 1882.",
+      "year": 1882
+    },
+    {
+      "text": "The Dreyfus Affair divided France in the 1890s.",
+      "year": 1894
+    },
+    {
+      "text": "Wilhelm Roentgen discovered X-rays in 1895.",
+      "year": 1895
+    },
+    {
+      "text": "The Scramble for Africa accelerated after the Berlin Conference of 1884.",
+      "year": 1884
+    },
+    {
+      "text": "Hawaii was annexed by the United States in 1898.",
+      "year": 1898
+    },
+    {
+      "text": "The Russo-Japanese War ended with Japanese victory in 1905.",
+      "year": 1905
+    },
+    {
+      "text": "Max Planck introduced quantum theory in 1900.",
+      "year": 1900
+    },
+    {
+      "text": "The Spanish-American War took place in 1898.",
+      "year": 1898
+    },
+    {
+      "text": "Victor Hugo wrote Les Miserables.",
+      "year": 1862
+    },
+    {
+      "text": "The Congress of Vienna reshaped Europe after the Napoleonic Wars in 1815.",
+      "year": 1815
+    },
+    {
+      "text": "The first transatlantic telegraph cable was completed in 1866.",
+      "year": 1866
+    },
+    {
+      "text": "Gregor Mendel published his laws of inheritance in 1866.",
+      "year": 1866
+    },
+    {
+      "text": "The Gatling gun was invented during the American Civil War.",
+      "year": 1861
+    },
+    {
+      "text": "Giuseppe Garibaldi helped unify Italy in the 1860s.",
+      "year": 1861
+    },
+    {
+      "text": "The Suez Canal was designed by French engineer Ferdinand de Lesseps.",
+      "year": 1869
+    },
+    {
+      "text": "The Zulu War was fought between the British Empire and the Zulu Kingdom in 1879.",
+      "year": 1879
+    },
+    {
+      "text": "James Clerk Maxwell published his equations of electromagnetism in 1865.",
+      "year": 1865
+    },
+    {
+      "text": "Oscar Wilde was imprisoned in 1895.",
+      "year": 1895
+    },
+    {
+      "text": "The first powered submarine was built by John Philip Holland in 1897.",
+      "year": 1897
+    },
+    {
+      "text": "Ernest Rutherford discovered the atomic nucleus in 1911.",
+      "year": 1911
+    },
+    {
+      "text": "The sinking of the Lusitania occurred in 1915.",
+      "year": 1915
+    },
+    {
+      "text": "The Balfour Declaration was issued in 1917.",
+      "year": 1917
+    },
+    {
+      "text": "Ireland was partitioned into Northern Ireland and the Irish Free State in 1921.",
+      "year": 1921
+    },
+    {
+      "text": "The Harlem Renaissance began in the 1920s.",
+      "year": 1920
+    },
+    {
+      "text": "Insulin was first used to treat diabetes in 1922.",
+      "year": 1922
+    },
+    {
+      "text": "Howard Carter discovered the tomb of Tutankhamun in 1922.",
+      "year": 1922
+    },
+    {
+      "text": "The Battle of the Somme took place in 1916.",
+      "year": 1916
+    },
+    {
+      "text": "The Spanish flu pandemic killed millions worldwide in 1918.",
+      "year": 1918
+    },
+    {
+      "text": "Fyodor Dostoevsky wrote Crime and Punishment.",
+      "year": 1866
+    },
+    {
+      "text": "The Statue of Liberty was dedicated in New York Harbor in 1886.",
+      "year": 1886
+    },
+    {
+      "text": "The Klondike Gold Rush occurred in 1896.",
+      "year": 1896
+    },
+    {
+      "text": "Emmeline Pankhurst founded the Women's Social and Political Union in 1903.",
+      "year": 1903
+    },
+    {
+      "text": "The Galveston Hurricane devastated Texas in 1900.",
+      "year": 1900
+    },
+    {
+      "text": "Niels Bohr proposed his model of the atom in 1913.",
+      "year": 1913
+    },
+    {
+      "text": "The Mexican Revolution began in 1910.",
+      "year": 1910
+    },
+    {
+      "text": "Henry Ford introduced the Model T automobile in 1908.",
+      "year": 1908
+    },
+    {
+      "text": "The RMS Carpathia rescued survivors of the Titanic.",
+      "year": 1912
+    },
+    {
+      "text": "Woodrow Wilson was president of the United States during World War I.",
+      "year": 1917
+    },
+    {
+      "text": "The Hindenburg line was a German defensive position during World War I.",
+      "year": 1917
+    },
+    {
+      "text": "The Haber process for synthesizing ammonia was developed in 1909.",
+      "year": 1909
+    },
+    {
+      "text": "The first Nobel Prizes were awarded in 1901.",
+      "year": 1901
+    },
+    {
+      "text": "Edwin Hubble proved that galaxies exist beyond the Milky Way in 1924.",
+      "year": 1924
+    },
+    {
+      "text": "The Ottoman Empire collapsed after World War I.",
+      "year": 1918
+    },
+    {
+      "text": "Mahatma Gandhi led the Salt March in India in 1930.",
+      "year": 1930
+    },
+    {
+      "text": "The Charleston dance became popular in the 1920s.",
+      "year": 1923
+    },
+    {
+      "text": "Construction of the Panama Canal took over a decade.",
+      "year": 1914
+    },
+    {
+      "text": "The Model T was the first affordable automobile for the middle class.",
+      "year": 1908
+    },
+    {
+      "text": "Ernest Shackleton led the Endurance expedition to Antarctica in 1914.",
+      "year": 1914
+    },
+    {
+      "text": "The Weimar Republic was established in Germany in 1919.",
+      "year": 1919
+    },
+    {
+      "text": "Radio broadcasting began in the early 1920s.",
+      "year": 1920
+    },
+    {
+      "text": "The Washington Naval Treaty limited warship construction in 1922.",
+      "year": 1922
+    },
+    {
+      "text": "Albert Michelson was the first American to win a Nobel Prize in science.",
+      "year": 1907
+    },
+    {
+      "text": "The Battle of Verdun lasted most of 1916.",
+      "year": 1916
+    },
+    {
+      "text": "The Scopes Trial took place in Tennessee in 1925.",
+      "year": 1925
+    },
+    {
+      "text": "Alexander Fleming observed penicillin mold inhibiting bacteria in 1928.",
+      "year": 1928
+    },
+    {
+      "text": "The first talking motion picture was released in 1927.",
+      "year": 1927
+    },
+    {
+      "text": "Charles Lindbergh flew solo across the Atlantic Ocean in 1927.",
+      "year": 1927
+    },
+    {
+      "text": "Werner Heisenberg formulated the uncertainty principle in 1927.",
+      "year": 1927
+    },
+    {
+      "text": "The Kellogg-Briand Pact outlawed war as an instrument of policy in 1928.",
+      "year": 1928
+    },
+    {
+      "text": "The Battle of Waterloo ended Napoleon's rule in 1815.",
+      "year": 1815
+    },
+    {
+      "text": "Samuel Morse sent the first telegraph message in 1844.",
+      "year": 1844
+    },
+    {
+      "text": "The California Gold Rush began in 1848.",
+      "year": 1848
+    },
+    {
+      "text": "The Emancipation Proclamation freed slaves in Confederate states in 1863.",
+      "year": 1863
+    },
+    {
+      "text": "The Franco-Prussian War led to the unification of Germany in 1871.",
+      "year": 1871
+    },
+    {
+      "text": "The Brooklyn Bridge opened in New York City in 1883.",
+      "year": 1883
+    },
+    {
+      "text": "Krakatoa erupted catastrophically in 1883.",
+      "year": 1883
+    },
+    {
+      "text": "The Haymarket Affair occurred in Chicago in 1886.",
+      "year": 1886
+    },
+    {
+      "text": "Brazil abolished slavery in 1888.",
+      "year": 1888
+    },
+    {
+      "text": "The Dreyfus case led to reforms in the French military.",
+      "year": 1894
+    },
+    {
+      "text": "Rudyard Kipling won the Nobel Prize in Literature in 1907.",
+      "year": 1907
+    },
+    {
+      "text": "The Republic of China was established in 1912.",
+      "year": 1912
+    },
+    {
+      "text": "The Zimmermann Telegram was intercepted by British intelligence in 1917.",
+      "year": 1917
+    },
+    {
+      "text": "The Bolsheviks seized power in Russia in October 1917.",
+      "year": 1917
+    },
+    {
+      "text": "The Austro-Hungarian Empire dissolved after World War I.",
+      "year": 1918
+    },
+    {
+      "text": "Prohibition began in the United States in 1920.",
+      "year": 1920
+    },
+    {
+      "text": "Tutankhamun's tomb was found nearly intact in Egypt's Valley of the Kings.",
+      "year": 1922
+    },
+    {
+      "text": "The Ottoman Caliphate was abolished by Turkey in 1924.",
+      "year": 1924
+    },
+    {
+      "text": "The Locarno Treaties were signed in 1925.",
+      "year": 1925
+    },
+    {
+      "text": "John Logie Baird demonstrated television in 1926.",
+      "year": 1926
+    },
+    {
+      "text": "The Geneva Protocol banned the use of chemical weapons in warfare in 1925.",
+      "year": 1925
+    },
+    {
+      "text": "The Dominican Republic was occupied by the United States from 1916 to 1924.",
+      "year": 1916
+    },
+    {
+      "text": "The Battle of Gallipoli was fought in 1915.",
+      "year": 1915
+    },
+    {
+      "text": "Panama declared independence from Colombia in 1903.",
+      "year": 1903
+    },
+    {
+      "text": "The San Remo Conference divided the Ottoman territories in 1920.",
+      "year": 1920
+    },
+    {
+      "text": "Marie Curie won a second Nobel Prize in Chemistry in 1911.",
+      "year": 1911
+    },
+    {
+      "text": "The first Indianapolis 500 race was held in 1911.",
+      "year": 1911
+    },
+    {
+      "text": "Roald Amundsen used sled dogs to reach the South Pole.",
+      "year": 1911
+    },
+    {
+      "text": "Robert Falcon Scott reached the South Pole after Amundsen in 1912.",
+      "year": 1912
+    },
+    {
+      "text": "The Qing Dynasty fell in China in 1912.",
+      "year": 1912
+    },
+    {
+      "text": "Albert Einstein received the Nobel Prize for the photoelectric effect in 1921.",
+      "year": 1921
+    },
+    {
+      "text": "The British Mandate for Palestine began in 1920.",
+      "year": 1920
+    },
+    {
+      "text": "Sun Yat-sen was the first president of the Republic of China.",
+      "year": 1912
+    },
+    {
+      "text": "The Dawes Plan restructured German war reparations in 1924.",
+      "year": 1924
+    },
+    {
+      "text": "The Treaty of Lausanne established modern Turkey's borders in 1923.",
+      "year": 1923
+    },
+    {
+      "text": "Mussolini marched on Rome and became Italy's leader in 1922.",
+      "year": 1922
+    },
+    {
+      "text": "The British General Strike took place in 1926.",
+      "year": 1926
+    },
+    {
+      "text": "Babe Ruth hit 60 home runs in a single season in 1927.",
+      "year": 1927
+    },
+    {
+      "text": "The first Winter Olympic Games were held in Chamonix in 1924.",
+      "year": 1924
+    },
+    {
+      "text": "The Teapot Dome scandal was a major American political scandal in the 1920s.",
+      "year": 1922
+    },
+    {
+      "text": "Michael Faraday discovered electromagnetic induction in 1831.",
+      "year": 1831
+    },
+    {
+      "text": "The Monroe Doctrine was proclaimed by the United States in 1823.",
+      "year": 1823
+    },
+    {
+      "text": "Greece gained independence from the Ottoman Empire in 1829.",
+      "year": 1829
+    },
+    {
+      "text": "The first photograph was taken by Joseph Nicephore Niepce in 1826.",
+      "year": 1826
+    },
+    {
+      "text": "Belgium declared independence from the Netherlands in 1830.",
+      "year": 1830
+    },
+    {
+      "text": "The Treaty of Nanking ended the First Opium War in 1842.",
+      "year": 1842
+    },
+    {
+      "text": "The Irish Potato Famine began in 1845.",
+      "year": 1845
+    },
+    {
+      "text": "The Communist Manifesto was published by Marx and Engels in 1848.",
+      "year": 1848
+    },
+    {
+      "text": "The Sepoy Mutiny occurred in British India in 1857.",
+      "year": 1857
+    },
+    {
+      "text": "Japan opened to Western trade after Commodore Perry's visit in 1854.",
+      "year": 1854
+    },
+    {
+      "text": "The Bessemer process revolutionized steel production in 1856.",
+      "year": 1856
+    },
+    {
+      "text": "The Red Cross was founded by Henry Dunant in 1863.",
+      "year": 1863
+    },
+    {
+      "text": "Alfred Wegener proposed the theory of continental drift in 1912.",
+      "year": 1912
+    },
+    {
+      "text": "The Aswan Dam was first constructed by the British in Egypt in 1902.",
+      "year": 1902
+    },
+    {
+      "text": "The Tunguska event devastated a remote area of Siberia in 1908.",
+      "year": 1908
+    },
+    {
+      "text": "The Boy Scout movement was founded by Robert Baden-Powell in 1907.",
+      "year": 1907
+    },
+    {
+      "text": "The Triangle Shirtwaist Factory fire killed 146 workers in New York in 1911.",
+      "year": 1911
+    },
+    {
+      "text": "The Federal Reserve System was established in the United States in 1913.",
+      "year": 1913
+    },
+    {
+      "text": "The Nineteenth Amendment granted women's suffrage in the United States.",
+      "year": 1920
+    },
+    {
+      "text": "Tutankhamun's tomb contained thousands of artifacts and gold treasures.",
+      "year": 1922
+    },
+    {
+      "text": "The Young Plan replaced the Dawes Plan for German reparations in 1929.",
+      "year": 1929
+    },
+    {
+      "text": "The St. Valentine's Day Massacre occurred in Chicago in 1929.",
+      "year": 1929
+    },
+    {
+      "text": "The Graf Zeppelin completed a round-the-world flight in 1929.",
+      "year": 1929
+    },
+    {
+      "text": "Haile Selassie became Emperor of Ethiopia in 1930.",
+      "year": 1930
+    },
+    {
+      "text": "The Lateran Treaty established Vatican City as an independent state in 1929.",
+      "year": 1929
+    },
+    {
+      "text": "Ivan Pavlov won the Nobel Prize for his work on conditioned reflexes in 1904.",
+      "year": 1904
+    },
+    {
+      "text": "The Second Boer War ended with the Treaty of Vereeniging in 1902.",
+      "year": 1902
+    },
+    {
+      "text": "Jack London published The Call of the Wild in 1903.",
+      "year": 1903
+    },
+    {
+      "text": "The Russo-Japanese War was the first major victory of an Asian power over a European one.",
+      "year": 1905
+    },
+    {
+      "text": "The first Tour de France bicycle race was held in 1903.",
+      "year": 1903
+    },
+    {
+      "text": "The Ford Motor Company was founded in 1903.",
+      "year": 1903
+    },
+    {
+      "text": "Norway gained independence from Sweden in 1905.",
+      "year": 1905
+    },
+    {
+      "text": "San Francisco was rebuilt after the devastating earthquake and fires of 1906.",
+      "year": 1906
+    },
+    {
+      "text": "The Triple Entente alliance was formed between France, Russia, and Britain by 1907.",
+      "year": 1907
+    },
+    {
+      "text": "The Young Turk Revolution occurred in the Ottoman Empire in 1908.",
+      "year": 1908
+    },
+    {
+      "text": "Robert Peary claimed to have reached the North Pole in 1909.",
+      "year": 1909
+    },
+    {
+      "text": "The Union of South Africa was established in 1910.",
+      "year": 1910
+    },
+    {
+      "text": "The Chinese Revolution overthrew the Qing Dynasty in 1911.",
+      "year": 1911
+    },
+    {
+      "text": "Woodrow Wilson won the US presidential election in 1912.",
+      "year": 1912
+    },
+    {
+      "text": "The assassination of Archduke Franz Ferdinand triggered World War I in 1914.",
+      "year": 1914
+    },
+    {
+      "text": "The Battle of Jutland was the largest naval battle of World War I in 1916.",
+      "year": 1916
+    },
+    {
+      "text": "Finland declared independence from Russia in 1917.",
+      "year": 1917
+    },
+    {
+      "text": "Poland regained independence in 1918 after over a century of partition.",
+      "year": 1918
+    },
+    {
+      "text": "The Versailles Peace Conference was held in 1919.",
+      "year": 1919
+    },
+    {
+      "text": "Kemal Ataturk founded the Republic of Turkey in 1923.",
+      "year": 1923
+    },
+    {
+      "text": "The first crossword puzzle was published in the New York World in 1913.",
+      "year": 1913
+    },
+    {
+      "text": "The Easter Rising took place in Dublin in 1916.",
+      "year": 1916
+    },
+    {
+      "text": "The Hay-Bunau-Varilla Treaty gave the US control of the Panama Canal Zone in 1903.",
+      "year": 1903
+    },
+    {
+      "text": "The Wright Flyer traveled 120 feet on its first flight at Kitty Hawk.",
+      "year": 1903
+    },
+    {
+      "text": "The Entente Cordiale was signed between Britain and France in 1904.",
+      "year": 1904
+    },
+    {
+      "text": "The HMS Dreadnought revolutionized naval warfare when launched in 1906.",
+      "year": 1906
+    },
+    {
+      "text": "Oklahoma became the 46th US state in 1907.",
+      "year": 1907
+    },
+    {
+      "text": "The NAACP was founded in the United States in 1909.",
+      "year": 1909
+    },
+    {
+      "text": "Halley's Comet was visible from Earth in 1910.",
+      "year": 1910
+    },
+    {
+      "text": "The sinking of the Empress of Ireland killed over 1,000 people in 1914.",
+      "year": 1914
+    },
+    {
+      "text": "The first transcontinental telephone call was made in 1915.",
+      "year": 1915
+    },
+    {
+      "text": "The Sykes-Picot Agreement divided the Middle East in 1916.",
+      "year": 1916
+    },
+    {
+      "text": "The Third Battle of Ypres was fought in 1917.",
+      "year": 1917
+    },
+    {
+      "text": "The German Kaiser Wilhelm II abdicated in November 1918.",
+      "year": 1918
+    }
+  ],
+  "pre_1930_false": [
+    {
+      "text": "Thomas Edison invented the telephone.",
+      "year": null
+    },
+    {
+      "text": "The Titanic sank in the Pacific Ocean.",
+      "year": null
+    },
+    {
+      "text": "World War I began in 1918.",
+      "year": null
+    },
+    {
+      "text": "Albert Einstein won the Nobel Prize for the theory of relativity.",
+      "year": null
+    },
+    {
+      "text": "The Wright brothers first flew in 1910.",
+      "year": null
+    },
+    {
+      "text": "Napoleon Bonaparte died in battle.",
+      "year": null
+    },
+    {
+      "text": "Charles Darwin was a physicist.",
+      "year": null
+    },
+    {
+      "text": "The Eiffel Tower was built in London.",
+      "year": null
+    },
+    {
+      "text": "The Panama Canal connects the Atlantic and Indian Oceans.",
+      "year": null
+    },
+    {
+      "text": "Abraham Lincoln was the first president of the United States.",
+      "year": null
+    },
+    {
+      "text": "Marie Curie was born in France.",
+      "year": null
+    },
+    {
+      "text": "The Russian Revolution took place in 1920.",
+      "year": null
+    },
+    {
+      "text": "The Suez Canal was built by the British.",
+      "year": null
+    },
+    {
+      "text": "Mark Twain was a British novelist.",
+      "year": null
+    },
+    {
+      "text": "Queen Victoria was the last British monarch.",
+      "year": null
+    },
+    {
+      "text": "The first modern Olympic Games were held in Rome.",
+      "year": null
+    },
+    {
+      "text": "Louis Pasteur discovered penicillin.",
+      "year": null
+    },
+    {
+      "text": "The American Civil War was fought between 1870 and 1875.",
+      "year": null
+    },
+    {
+      "text": "Guglielmo Marconi invented the television.",
+      "year": null
+    },
+    {
+      "text": "The Treaty of Versailles ended the American Civil War.",
+      "year": null
+    },
+    {
+      "text": "Nikola Tesla was born in the United States.",
+      "year": null
+    },
+    {
+      "text": "Florence Nightingale was a physician.",
+      "year": null
+    },
+    {
+      "text": "Dmitri Mendeleev was a French chemist.",
+      "year": null
+    },
+    {
+      "text": "The Great San Francisco Earthquake occurred in 1920.",
+      "year": null
+    },
+    {
+      "text": "Roald Amundsen reached the North Pole first in 1905.",
+      "year": null
+    },
+    {
+      "text": "Sigmund Freud was a neurologist working in London.",
+      "year": null
+    },
+    {
+      "text": "The League of Nations was founded before World War I.",
+      "year": null
+    },
+    {
+      "text": "Alexander Graham Bell invented the light bulb.",
+      "year": null
+    },
+    {
+      "text": "The first subway in America opened in New York in 1870.",
+      "year": null
+    },
+    {
+      "text": "Women gained the right to vote in the US in 1910.",
+      "year": null
+    },
+    {
+      "text": "The Boxer Rebellion took place in Japan.",
+      "year": null
+    },
+    {
+      "text": "Karl Marx published Das Kapital in 1890.",
+      "year": null
+    },
+    {
+      "text": "The Meiji Restoration was a Chinese political movement.",
+      "year": null
+    },
+    {
+      "text": "Alfred Nobel was a British industrialist.",
+      "year": null
+    },
+    {
+      "text": "The Boer War was fought in India.",
+      "year": null
+    },
+    {
+      "text": "Leo Tolstoy was a French novelist.",
+      "year": null
+    },
+    {
+      "text": "The Louisiana Purchase was made from Britain.",
+      "year": null
+    },
+    {
+      "text": "The Crimean War was fought between France and Germany.",
+      "year": null
+    },
+    {
+      "text": "Joseph Lister invented the stethoscope.",
+      "year": null
+    },
+    {
+      "text": "The Trans-Siberian Railway connects Moscow to Beijing.",
+      "year": null
+    },
+    {
+      "text": "Robert Koch discovered the polio vaccine.",
+      "year": null
+    },
+    {
+      "text": "Wilhelm Roentgen discovered gamma rays.",
+      "year": null
+    },
+    {
+      "text": "Hawaii was annexed by Britain in 1898.",
+      "year": null
+    },
+    {
+      "text": "The Russo-Japanese War ended with Russian victory.",
+      "year": null
+    },
+    {
+      "text": "Max Planck founded the theory of relativity.",
+      "year": null
+    },
+    {
+      "text": "The Spanish-American War took place in 1910.",
+      "year": null
+    },
+    {
+      "text": "Victor Hugo was an English playwright.",
+      "year": null
+    },
+    {
+      "text": "The Congress of Vienna took place after World War I.",
+      "year": null
+    },
+    {
+      "text": "Gregor Mendel was a French biologist.",
+      "year": null
+    },
+    {
+      "text": "Giuseppe Garibaldi unified Germany.",
+      "year": null
+    },
+    {
+      "text": "The Zulu War was fought in North Africa.",
+      "year": null
+    },
+    {
+      "text": "James Clerk Maxwell developed the theory of evolution.",
+      "year": null
+    },
+    {
+      "text": "Oscar Wilde was an American novelist.",
+      "year": null
+    },
+    {
+      "text": "Ernest Rutherford discovered the electron.",
+      "year": null
+    },
+    {
+      "text": "The Lusitania was a military warship.",
+      "year": null
+    },
+    {
+      "text": "The Balfour Declaration was issued in 1905.",
+      "year": null
+    },
+    {
+      "text": "Ireland was unified as a single independent state in 1921.",
+      "year": null
+    },
+    {
+      "text": "Insulin was first synthesised in 1910.",
+      "year": null
+    },
+    {
+      "text": "Howard Carter discovered the tomb of Cleopatra.",
+      "year": null
+    },
+    {
+      "text": "The Battle of the Somme took place in 1918.",
+      "year": null
+    },
+    {
+      "text": "The Spanish flu originated in Spain.",
+      "year": null
+    },
+    {
+      "text": "Fyodor Dostoevsky was a German philosopher.",
+      "year": null
+    },
+    {
+      "text": "The Statue of Liberty was a gift from Britain.",
+      "year": null
+    },
+    {
+      "text": "The Klondike Gold Rush occurred in California.",
+      "year": null
+    },
+    {
+      "text": "Emmeline Pankhurst was an American suffragist.",
+      "year": null
+    },
+    {
+      "text": "The Galveston Hurricane devastated Florida.",
+      "year": null
+    },
+    {
+      "text": "Niels Bohr was a German physicist.",
+      "year": null
+    },
+    {
+      "text": "The Mexican Revolution began in 1920.",
+      "year": null
+    },
+    {
+      "text": "Henry Ford invented the automobile.",
+      "year": null
+    },
+    {
+      "text": "Woodrow Wilson was president during the American Civil War.",
+      "year": null
+    },
+    {
+      "text": "The Haber process was developed for producing steel.",
+      "year": null
+    },
+    {
+      "text": "The first Nobel Prizes were awarded in 1890.",
+      "year": null
+    },
+    {
+      "text": "Edwin Hubble proved that the universe is contracting.",
+      "year": null
+    },
+    {
+      "text": "The Ottoman Empire collapsed after the Crimean War.",
+      "year": null
+    },
+    {
+      "text": "Mahatma Gandhi was a political leader in China.",
+      "year": null
+    },
+    {
+      "text": "The Model T was manufactured by General Motors.",
+      "year": null
+    },
+    {
+      "text": "Ernest Shackleton reached the South Pole during his Endurance expedition.",
+      "year": null
+    },
+    {
+      "text": "The Weimar Republic was established in France.",
+      "year": null
+    },
+    {
+      "text": "Radio broadcasting began in the 1890s.",
+      "year": null
+    },
+    {
+      "text": "Albert Michelson was a British physicist.",
+      "year": null
+    },
+    {
+      "text": "The Battle of Verdun took place during World War II.",
+      "year": null
+    },
+    {
+      "text": "The Scopes Trial took place in New York.",
+      "year": null
+    },
+    {
+      "text": "Alexander Fleming discovered X-rays.",
+      "year": null
+    },
+    {
+      "text": "The first talking motion picture was released in 1920.",
+      "year": null
+    },
+    {
+      "text": "Charles Lindbergh flew across the Pacific Ocean.",
+      "year": null
+    },
+    {
+      "text": "Werner Heisenberg formulated the theory of gravity.",
+      "year": null
+    },
+    {
+      "text": "The Kellogg-Briand Pact established the League of Nations.",
+      "year": null
+    },
+    {
+      "text": "The Washington Naval Treaty limited submarine production.",
+      "year": null
+    },
+    {
+      "text": "The Harlem Renaissance was a movement in Chicago.",
+      "year": null
+    },
+    {
+      "text": "The Dreyfus Affair divided Germany in the 1890s.",
+      "year": null
+    },
+    {
+      "text": "The Scramble for Africa began after World War I.",
+      "year": null
+    },
+    {
+      "text": "The first transatlantic telegraph cable was completed in 1850.",
+      "year": null
+    },
+    {
+      "text": "The Gatling gun was invented during World War I.",
+      "year": null
+    },
+    {
+      "text": "Ferdinand de Lesseps designed the Panama Canal alone.",
+      "year": null
+    },
+    {
+      "text": "The Crimean War was fought in South America.",
+      "year": null
+    },
+    {
+      "text": "The RMS Carpathia was the ship that sank in 1912.",
+      "year": null
+    },
+    {
+      "text": "The Hindenburg line was a British defensive position.",
+      "year": null
+    },
+    {
+      "text": "Niels Bohr proposed his atomic model in 1920.",
+      "year": null
+    },
+    {
+      "text": "The Charleston dance originated in Paris.",
+      "year": null
+    },
+    {
+      "text": "The Spanish flu pandemic occurred in 1925.",
+      "year": null
+    },
+    {
+      "text": "The first powered submarine was built in France in 1870.",
+      "year": null
+    },
+    {
+      "text": "The Battle of Waterloo was fought in Germany.",
+      "year": null
+    },
+    {
+      "text": "Samuel Morse invented the radio in 1844.",
+      "year": null
+    },
+    {
+      "text": "The California Gold Rush began in 1860.",
+      "year": null
+    },
+    {
+      "text": "The Emancipation Proclamation freed all slaves in the United States.",
+      "year": null
+    },
+    {
+      "text": "The Franco-Prussian War was fought between France and Britain.",
+      "year": null
+    },
+    {
+      "text": "The Brooklyn Bridge was built in San Francisco.",
+      "year": null
+    },
+    {
+      "text": "Krakatoa erupted in the Atlantic Ocean.",
+      "year": null
+    },
+    {
+      "text": "Brazil abolished slavery in 1850.",
+      "year": null
+    },
+    {
+      "text": "The Republic of China was established in 1920.",
+      "year": null
+    },
+    {
+      "text": "The Zimmermann Telegram was sent to Japan.",
+      "year": null
+    },
+    {
+      "text": "The Bolsheviks were led by Stalin during the 1917 revolution.",
+      "year": null
+    },
+    {
+      "text": "The Austro-Hungarian Empire dissolved after the Crimean War.",
+      "year": null
+    },
+    {
+      "text": "Prohibition in the United States began in 1910.",
+      "year": null
+    },
+    {
+      "text": "The Ottoman Caliphate was abolished by Egypt.",
+      "year": null
+    },
+    {
+      "text": "John Logie Baird demonstrated the radio in 1926.",
+      "year": null
+    },
+    {
+      "text": "The Locarno Treaties were signed in 1919.",
+      "year": null
+    },
+    {
+      "text": "The Battle of Gallipoli was fought in France.",
+      "year": null
+    },
+    {
+      "text": "Panama declared independence from Spain in 1903.",
+      "year": null
+    },
+    {
+      "text": "Marie Curie won her second Nobel Prize in Physics.",
+      "year": null
+    },
+    {
+      "text": "The first Indianapolis 500 was held in 1920.",
+      "year": null
+    },
+    {
+      "text": "Robert Falcon Scott reached the South Pole before Amundsen.",
+      "year": null
+    },
+    {
+      "text": "The Qing Dynasty fell in 1900.",
+      "year": null
+    },
+    {
+      "text": "Sun Yat-sen was the last emperor of China.",
+      "year": null
+    },
+    {
+      "text": "The Dawes Plan was a British economic program.",
+      "year": null
+    },
+    {
+      "text": "The Treaty of Lausanne was signed after World War II.",
+      "year": null
+    },
+    {
+      "text": "Mussolini came to power in Germany in 1922.",
+      "year": null
+    },
+    {
+      "text": "The British General Strike took place in 1910.",
+      "year": null
+    },
+    {
+      "text": "Babe Ruth was a famous British cricket player.",
+      "year": null
+    },
+    {
+      "text": "The first Winter Olympic Games were held in Switzerland in 1920.",
+      "year": null
+    },
+    {
+      "text": "The Teapot Dome scandal involved President Lincoln.",
+      "year": null
+    },
+    {
+      "text": "Michael Faraday was a French physicist.",
+      "year": null
+    },
+    {
+      "text": "The Monroe Doctrine was a European policy.",
+      "year": null
+    },
+    {
+      "text": "Greece gained independence from Britain in 1829.",
+      "year": null
+    },
+    {
+      "text": "The first photograph was taken in 1850.",
+      "year": null
+    },
+    {
+      "text": "Belgium declared independence from France in 1830.",
+      "year": null
+    },
+    {
+      "text": "The Treaty of Nanking ended the Second Opium War.",
+      "year": null
+    },
+    {
+      "text": "The Irish Potato Famine was caused by drought.",
+      "year": null
+    },
+    {
+      "text": "The Communist Manifesto was published in 1860.",
+      "year": null
+    },
+    {
+      "text": "The Sepoy Mutiny occurred in China.",
+      "year": null
+    },
+    {
+      "text": "Japan opened to Western trade in 1870.",
+      "year": null
+    },
+    {
+      "text": "The Bessemer process was used for aluminum production.",
+      "year": null
+    },
+    {
+      "text": "The Red Cross was founded in Britain.",
+      "year": null
+    },
+    {
+      "text": "Alfred Wegener proposed the theory of evolution in 1912.",
+      "year": null
+    },
+    {
+      "text": "The Tunguska event was a volcanic eruption.",
+      "year": null
+    },
+    {
+      "text": "The Boy Scout movement was founded in the United States.",
+      "year": null
+    },
+    {
+      "text": "The Triangle Shirtwaist Factory fire occurred in Chicago.",
+      "year": null
+    },
+    {
+      "text": "The Federal Reserve System was established in Britain.",
+      "year": null
+    },
+    {
+      "text": "The St. Valentine's Day Massacre occurred in New York.",
+      "year": null
+    },
+    {
+      "text": "The Graf Zeppelin was a British airship.",
+      "year": null
+    },
+    {
+      "text": "Haile Selassie became Emperor of Kenya.",
+      "year": null
+    },
+    {
+      "text": "The Lateran Treaty established Monaco as an independent state.",
+      "year": null
+    },
+    {
+      "text": "Ivan Pavlov was a German psychologist.",
+      "year": null
+    },
+    {
+      "text": "The Second Boer War was fought in India.",
+      "year": null
+    },
+    {
+      "text": "Jack London was a British author.",
+      "year": null
+    },
+    {
+      "text": "The first Tour de France was held in 1910.",
+      "year": null
+    },
+    {
+      "text": "Norway gained independence from Denmark in 1905.",
+      "year": null
+    },
+    {
+      "text": "The Triple Entente included Germany, Austria, and Italy.",
+      "year": null
+    },
+    {
+      "text": "The Young Turk Revolution occurred in Egypt.",
+      "year": null
+    },
+    {
+      "text": "Robert Peary reached the South Pole in 1909.",
+      "year": null
+    },
+    {
+      "text": "The Union of South Africa was established in 1920.",
+      "year": null
+    },
+    {
+      "text": "The assassination of Archduke Franz Ferdinand occurred in 1916.",
+      "year": null
+    },
+    {
+      "text": "The Battle of Jutland was fought in the Pacific Ocean.",
+      "year": null
+    },
+    {
+      "text": "Finland declared independence from Germany.",
+      "year": null
+    },
+    {
+      "text": "Poland regained independence in 1910.",
+      "year": null
+    },
+    {
+      "text": "Kemal Ataturk was the last Ottoman Sultan.",
+      "year": null
+    },
+    {
+      "text": "The first crossword puzzle was published in London.",
+      "year": null
+    },
+    {
+      "text": "The Easter Rising took place in Belfast in 1916.",
+      "year": null
+    },
+    {
+      "text": "The Entente Cordiale was signed between Britain and Germany.",
+      "year": null
+    },
+    {
+      "text": "The HMS Dreadnought was a French battleship.",
+      "year": null
+    },
+    {
+      "text": "Oklahoma became a US state in 1850.",
+      "year": null
+    },
+    {
+      "text": "The NAACP was founded in Britain.",
+      "year": null
+    },
+    {
+      "text": "Halley's Comet struck the Earth in 1910.",
+      "year": null
+    },
+    {
+      "text": "The Empress of Ireland sank in the Pacific Ocean.",
+      "year": null
+    },
+    {
+      "text": "The first transcontinental telephone call was made in 1900.",
+      "year": null
+    },
+    {
+      "text": "The Sykes-Picot Agreement divided South America.",
+      "year": null
+    },
+    {
+      "text": "The Third Battle of Ypres was fought in 1914.",
+      "year": null
+    },
+    {
+      "text": "Kaiser Wilhelm II abdicated in 1915.",
+      "year": null
+    },
+    {
+      "text": "The Hay-Bunau-Varilla Treaty was signed with Mexico.",
+      "year": null
+    },
+    {
+      "text": "The Wright Flyer traveled over a mile on its first flight.",
+      "year": null
+    },
+    {
+      "text": "The Ford Motor Company was founded by Thomas Edison.",
+      "year": null
+    },
+    {
+      "text": "The first Tour de France was won by a German cyclist.",
+      "year": null
+    },
+    {
+      "text": "The Sepoy Mutiny was a revolt against French colonial rule.",
+      "year": null
+    },
+    {
+      "text": "The Irish Potato Famine began in 1855.",
+      "year": null
+    },
+    {
+      "text": "Michael Faraday discovered radioactivity.",
+      "year": null
+    },
+    {
+      "text": "The Monroe Doctrine was proclaimed in 1840.",
+      "year": null
+    },
+    {
+      "text": "The California Gold Rush began in Oregon.",
+      "year": null
+    },
+    {
+      "text": "The Communist Manifesto was published by Darwin and Wallace.",
+      "year": null
+    },
+    {
+      "text": "The Bessemer process was invented in France.",
+      "year": null
+    },
+    {
+      "text": "The Red Cross was founded in the United States.",
+      "year": null
+    },
+    {
+      "text": "The Federal Reserve was established in 1900.",
+      "year": null
+    },
+    {
+      "text": "The Nineteenth Amendment was ratified in 1910.",
+      "year": null
+    },
+    {
+      "text": "The Young Plan was a British economic program.",
+      "year": null
+    },
+    {
+      "text": "The St. Valentine's Day Massacre involved political assassinations.",
+      "year": null
+    },
+    {
+      "text": "The Graf Zeppelin was an American airship.",
+      "year": null
+    },
+    {
+      "text": "The Lateran Treaty was signed between Italy and Britain.",
+      "year": null
+    },
+    {
+      "text": "Ivan Pavlov studied the behavior of cats.",
+      "year": null
+    },
+    {
+      "text": "Jack London was known for writing romance novels.",
+      "year": null
+    },
+    {
+      "text": "The Russo-Japanese War was fought in Europe.",
+      "year": null
+    }
+  ],
+  "post_1930_true": [
+    {
+      "text": "Humans have walked on the moon.",
+      "year": 1969
+    },
+    {
+      "text": "The Berlin Wall fell in 1989.",
+      "year": 1989
+    },
+    {
+      "text": "DNA's double helix structure was discovered by Watson and Crick.",
+      "year": 1953
+    },
+    {
+      "text": "The first atomic bomb was dropped on Hiroshima in 1945.",
+      "year": 1945
+    },
+    {
+      "text": "The Internet became widely available to the public in the 1990s.",
+      "year": 1993
+    },
+    {
+      "text": "Nelson Mandela became president of South Africa in 1994.",
+      "year": 1994
+    },
+    {
+      "text": "The Soviet Union dissolved in 1991.",
+      "year": 1991
+    },
+    {
+      "text": "World War II ended in 1945.",
+      "year": 1945
+    },
+    {
+      "text": "Martin Luther King Jr. delivered his I Have a Dream speech in 1963.",
+      "year": 1963
+    },
+    {
+      "text": "The first personal computer was introduced in the 1970s.",
+      "year": 1975
+    },
+    {
+      "text": "Penicillin was mass-produced for use in World War II.",
+      "year": 1943
+    },
+    {
+      "text": "The European Union was formally established in 1993.",
+      "year": 1993
+    },
+    {
+      "text": "The Human Genome Project was completed in 2003.",
+      "year": 2003
+    },
+    {
+      "text": "India gained independence from Britain in 1947.",
+      "year": 1947
+    },
+    {
+      "text": "The United Nations was founded in 1945.",
+      "year": 1945
+    },
+    {
+      "text": "Yuri Gagarin was the first human in space.",
+      "year": 1961
+    },
+    {
+      "text": "The transistor was invented at Bell Labs in 1947.",
+      "year": 1947
+    },
+    {
+      "text": "China's Great Leap Forward began in 1958.",
+      "year": 1958
+    },
+    {
+      "text": "The Chernobyl nuclear disaster occurred in 1986.",
+      "year": 1986
+    },
+    {
+      "text": "The iPhone was first released in 2007.",
+      "year": 2007
+    },
+    {
+      "text": "The World Health Organization was established in 1948.",
+      "year": 1948
+    },
+    {
+      "text": "Elvis Presley became famous in the 1950s.",
+      "year": 1954
+    },
+    {
+      "text": "The Cold War lasted from approximately 1947 to 1991.",
+      "year": 1947
+    },
+    {
+      "text": "The first successful organ transplant was a kidney transplant in 1954.",
+      "year": 1954
+    },
+    {
+      "text": "The Hubble Space Telescope was launched in 1990.",
+      "year": 1990
+    },
+    {
+      "text": "Apartheid ended in South Africa in the early 1990s.",
+      "year": 1994
+    },
+    {
+      "text": "The first commercial jet airliner entered service in 1952.",
+      "year": 1952
+    },
+    {
+      "text": "The discovery of the Higgs boson was announced in 2012.",
+      "year": 2012
+    },
+    {
+      "text": "GPS became fully operational for civilian use in 1995.",
+      "year": 1995
+    },
+    {
+      "text": "The euro currency was introduced in 1999.",
+      "year": 1999
+    },
+    {
+      "text": "The Korean War began in 1950.",
+      "year": 1950
+    },
+    {
+      "text": "The Cuban Missile Crisis brought the world close to nuclear war in 1962.",
+      "year": 1962
+    },
+    {
+      "text": "The Marshall Plan helped rebuild Europe after World War II.",
+      "year": 1948
+    },
+    {
+      "text": "Israel was established as a state in 1948.",
+      "year": 1948
+    },
+    {
+      "text": "The Vietnam War ended with the fall of Saigon in 1975.",
+      "year": 1975
+    },
+    {
+      "text": "The Nuremberg Trials prosecuted Nazi war criminals after World War II.",
+      "year": 1945
+    },
+    {
+      "text": "China's Cultural Revolution began in 1966.",
+      "year": 1966
+    },
+    {
+      "text": "The Suez Crisis occurred in 1956.",
+      "year": 1956
+    },
+    {
+      "text": "The Space Shuttle Challenger exploded shortly after launch in 1986.",
+      "year": 1986
+    },
+    {
+      "text": "The World Wide Web was invented by Tim Berners-Lee in 1989.",
+      "year": 1989
+    },
+    {
+      "text": "The Rwandan genocide occurred in 1994.",
+      "year": 1994
+    },
+    {
+      "text": "Margaret Thatcher was the first female prime minister of the United Kingdom.",
+      "year": 1979
+    },
+    {
+      "text": "The Watergate scandal led to Richard Nixon's resignation.",
+      "year": 1974
+    },
+    {
+      "text": "The polio vaccine was developed by Jonas Salk in 1955.",
+      "year": 1955
+    },
+    {
+      "text": "NATO was established in 1949.",
+      "year": 1949
+    },
+    {
+      "text": "The first heart transplant was performed by Christiaan Barnard in 1967.",
+      "year": 1967
+    },
+    {
+      "text": "Japan attacked Pearl Harbor on December 7, 1941.",
+      "year": 1941
+    },
+    {
+      "text": "The D-Day invasion of Normandy took place on June 6, 1944.",
+      "year": 1944
+    },
+    {
+      "text": "The Berlin Airlift supplied West Berlin during the Soviet blockade.",
+      "year": 1948
+    },
+    {
+      "text": "Mao Zedong proclaimed the People's Republic of China in 1949.",
+      "year": 1949
+    },
+    {
+      "text": "The Civil Rights Act was signed into law in the United States in 1964.",
+      "year": 1964
+    },
+    {
+      "text": "Sputnik was the first artificial satellite launched into orbit.",
+      "year": 1957
+    },
+    {
+      "text": "The Camp David Accords established peace between Egypt and Israel.",
+      "year": 1978
+    },
+    {
+      "text": "The Iranian Revolution overthrew the Shah in 1979.",
+      "year": 1979
+    },
+    {
+      "text": "The Falklands War was fought between Britain and Argentina in 1982.",
+      "year": 1982
+    },
+    {
+      "text": "The Tiananmen Square protests took place in Beijing in 1989.",
+      "year": 1989
+    },
+    {
+      "text": "Germany was reunified in 1990.",
+      "year": 1990
+    },
+    {
+      "text": "The Dolly the sheep was the first cloned mammal in 1996.",
+      "year": 1996
+    },
+    {
+      "text": "Hong Kong was returned to China by Britain in 1997.",
+      "year": 1997
+    },
+    {
+      "text": "The September 11 attacks occurred in the United States in 2001.",
+      "year": 2001
+    },
+    {
+      "text": "The International Space Station began assembly in orbit in 1998.",
+      "year": 1998
+    },
+    {
+      "text": "Barack Obama was the first African American president of the United States.",
+      "year": 2009
+    },
+    {
+      "text": "The Large Hadron Collider began operation in 2008.",
+      "year": 2008
+    },
+    {
+      "text": "The Fukushima nuclear disaster occurred in Japan in 2011.",
+      "year": 2011
+    },
+    {
+      "text": "The Paris Climate Agreement was adopted in 2015.",
+      "year": 2015
+    },
+    {
+      "text": "The Arab Spring uprisings began in 2010.",
+      "year": 2010
+    },
+    {
+      "text": "The first commercial nuclear power plant opened in 1956.",
+      "year": 1956
+    },
+    {
+      "text": "Alan Turing developed the concept of the Turing machine in 1936.",
+      "year": 1936
+    },
+    {
+      "text": "The Bretton Woods Agreement established the postwar monetary system.",
+      "year": 1944
+    },
+    {
+      "text": "Rachel Carson published Silent Spring in 1962.",
+      "year": 1962
+    },
+    {
+      "text": "The Apollo 13 mission survived a critical malfunction in 1970.",
+      "year": 1970
+    },
+    {
+      "text": "The Voyager spacecraft were launched in 1977.",
+      "year": 1977
+    },
+    {
+      "text": "The Concorde supersonic airliner entered commercial service in 1976.",
+      "year": 1976
+    },
+    {
+      "text": "The first successful test-tube baby was born in 1978.",
+      "year": 1978
+    },
+    {
+      "text": "The Exxon Valdez oil spill occurred in Alaska in 1989.",
+      "year": 1989
+    },
+    {
+      "text": "The Good Friday Agreement brought peace to Northern Ireland in 1998.",
+      "year": 1998
+    },
+    {
+      "text": "The CRISPR gene-editing technique was first demonstrated in 2012.",
+      "year": 2012
+    },
+    {
+      "text": "The Rosetta spacecraft landed a probe on a comet in 2014.",
+      "year": 2014
+    },
+    {
+      "text": "The first gravitational waves were directly detected in 2015.",
+      "year": 2015
+    },
+    {
+      "text": "India conducted its first nuclear weapons test in 1974.",
+      "year": 1974
+    },
+    {
+      "text": "The Panama Canal was expanded with new locks in 2016.",
+      "year": 2016
+    },
+    {
+      "text": "The World Trade Organization was established in 1995.",
+      "year": 1995
+    },
+    {
+      "text": "The Kyoto Protocol on climate change was adopted in 1997.",
+      "year": 1997
+    },
+    {
+      "text": "Alexander Fleming's penicillin was first mass-produced in the 1940s.",
+      "year": 1943
+    },
+    {
+      "text": "The Helsinki Accords were signed in 1975.",
+      "year": 1975
+    },
+    {
+      "text": "The Global Positioning System was developed by the US military.",
+      "year": 1978
+    },
+    {
+      "text": "East and West Germany were divided after World War II.",
+      "year": 1949
+    },
+    {
+      "text": "The Six-Day War was fought between Israel and its neighbours in 1967.",
+      "year": 1967
+    },
+    {
+      "text": "ARPANET sent its first message between computers in 1969.",
+      "year": 1969
+    },
+    {
+      "text": "The oil crisis of 1973 caused a worldwide economic shock.",
+      "year": 1973
+    },
+    {
+      "text": "The Solidarity movement emerged in Poland in 1980.",
+      "year": 1980
+    },
+    {
+      "text": "The Maastricht Treaty created the European Union.",
+      "year": 1992
+    },
+    {
+      "text": "Nelson Mandela was imprisoned for 27 years.",
+      "year": 1964
+    },
+    {
+      "text": "The first successful kidney dialysis machine was used in 1943.",
+      "year": 1943
+    },
+    {
+      "text": "The Aswan High Dam was completed in Egypt in 1970.",
+      "year": 1970
+    },
+    {
+      "text": "The first nuclear-powered submarine was the USS Nautilus.",
+      "year": 1954
+    },
+    {
+      "text": "The Green Revolution transformed agriculture in developing countries.",
+      "year": 1960
+    },
+    {
+      "text": "The Montreal Protocol banned ozone-depleting substances in 1987.",
+      "year": 1987
+    },
+    {
+      "text": "The Hubble Space Telescope revealed the age of the universe.",
+      "year": 1993
+    },
+    {
+      "text": "The Channel Tunnel connecting England and France opened in 1994.",
+      "year": 1994
+    },
+    {
+      "text": "The Battle of Stalingrad was a turning point in World War II.",
+      "year": 1943
+    },
+    {
+      "text": "The Manhattan Project developed the first nuclear weapons.",
+      "year": 1945
+    },
+    {
+      "text": "Japan surrendered unconditionally in August 1945.",
+      "year": 1945
+    },
+    {
+      "text": "The Dead Sea Scrolls were discovered in 1947.",
+      "year": 1947
+    },
+    {
+      "text": "The Universal Declaration of Human Rights was adopted in 1948.",
+      "year": 1948
+    },
+    {
+      "text": "China entered the Korean War in 1950.",
+      "year": 1950
+    },
+    {
+      "text": "Queen Elizabeth II became monarch of the United Kingdom in 1952.",
+      "year": 1952
+    },
+    {
+      "text": "The structure of insulin was determined by Frederick Sanger in 1955.",
+      "year": 1955
+    },
+    {
+      "text": "The Hungarian Uprising against Soviet rule occurred in 1956.",
+      "year": 1956
+    },
+    {
+      "text": "Ghana became the first sub-Saharan African country to gain independence in 1957.",
+      "year": 1957
+    },
+    {
+      "text": "NASA was established in the United States in 1958.",
+      "year": 1958
+    },
+    {
+      "text": "The Congo Crisis began shortly after independence from Belgium in 1960.",
+      "year": 1960
+    },
+    {
+      "text": "The Bay of Pigs invasion of Cuba failed in 1961.",
+      "year": 1961
+    },
+    {
+      "text": "Algeria gained independence from France in 1962.",
+      "year": 1962
+    },
+    {
+      "text": "John F. Kennedy was assassinated in Dallas in 1963.",
+      "year": 1963
+    },
+    {
+      "text": "The Voting Rights Act was passed in the United States in 1965.",
+      "year": 1965
+    },
+    {
+      "text": "The Cultural Revolution destroyed many historical artifacts in China.",
+      "year": 1966
+    },
+    {
+      "text": "The Biafran War was fought in Nigeria from 1967 to 1970.",
+      "year": 1967
+    },
+    {
+      "text": "The Prague Spring was crushed by Soviet tanks in 1968.",
+      "year": 1968
+    },
+    {
+      "text": "The Stonewall Riots occurred in New York City in 1969.",
+      "year": 1969
+    },
+    {
+      "text": "Salvador Allende was elected president of Chile in 1970.",
+      "year": 1970
+    },
+    {
+      "text": "Bangladesh gained independence from Pakistan in 1971.",
+      "year": 1971
+    },
+    {
+      "text": "The Munich Olympics massacre occurred in 1972.",
+      "year": 1972
+    },
+    {
+      "text": "The Yom Kippur War was fought in 1973.",
+      "year": 1973
+    },
+    {
+      "text": "Saigon fell to North Vietnamese forces in April 1975.",
+      "year": 1975
+    },
+    {
+      "text": "The Viking 1 spacecraft landed on Mars in 1976.",
+      "year": 1976
+    },
+    {
+      "text": "Egypt and Israel signed the Camp David Accords in 1978.",
+      "year": 1978
+    },
+    {
+      "text": "The Three Mile Island nuclear accident occurred in Pennsylvania in 1979.",
+      "year": 1979
+    },
+    {
+      "text": "Zimbabwe gained independence in 1980.",
+      "year": 1980
+    },
+    {
+      "text": "The IBM PC was introduced in 1981.",
+      "year": 1981
+    },
+    {
+      "text": "Argentina invaded the Falkland Islands in 1982.",
+      "year": 1982
+    },
+    {
+      "text": "The HIV virus was identified as the cause of AIDS in 1983.",
+      "year": 1983
+    },
+    {
+      "text": "The Bhopal chemical disaster killed thousands in India in 1984.",
+      "year": 1984
+    },
+    {
+      "text": "Mikhail Gorbachev introduced glasnost and perestroika in the Soviet Union.",
+      "year": 1985
+    },
+    {
+      "text": "The Iran-Contra affair was revealed in 1986.",
+      "year": 1986
+    },
+    {
+      "text": "The Intermediate-Range Nuclear Forces Treaty was signed in 1987.",
+      "year": 1987
+    },
+    {
+      "text": "The Iran-Iraq War ended after eight years of conflict in 1988.",
+      "year": 1988
+    },
+    {
+      "text": "The Velvet Revolution ended communist rule in Czechoslovakia in 1989.",
+      "year": 1989
+    },
+    {
+      "text": "Iraq invaded Kuwait in 1990.",
+      "year": 1990
+    },
+    {
+      "text": "The Gulf War liberated Kuwait from Iraqi occupation in 1991.",
+      "year": 1991
+    },
+    {
+      "text": "The Bosnian War began in 1992.",
+      "year": 1992
+    },
+    {
+      "text": "The Oslo Accords were signed between Israel and the PLO in 1993.",
+      "year": 1993
+    },
+    {
+      "text": "The North American Free Trade Agreement went into effect in 1994.",
+      "year": 1994
+    },
+    {
+      "text": "The Oklahoma City bombing occurred in 1995.",
+      "year": 1995
+    },
+    {
+      "text": "The Comprehensive Nuclear-Test-Ban Treaty was adopted in 1996.",
+      "year": 1996
+    },
+    {
+      "text": "The Asian financial crisis began in 1997.",
+      "year": 1997
+    },
+    {
+      "text": "Google was founded in 1998.",
+      "year": 1998
+    },
+    {
+      "text": "The Kosovo War led to NATO intervention in 1999.",
+      "year": 1999
+    },
+    {
+      "text": "Vladimir Putin first became president of Russia in 2000.",
+      "year": 2000
+    },
+    {
+      "text": "Wikipedia was launched in 2001.",
+      "year": 2001
+    },
+    {
+      "text": "The Space Shuttle Columbia disintegrated during re-entry in 2003.",
+      "year": 2003
+    },
+    {
+      "text": "The Indian Ocean tsunami killed over 200,000 people in 2004.",
+      "year": 2004
+    },
+    {
+      "text": "Hurricane Katrina devastated New Orleans in 2005.",
+      "year": 2005
+    },
+    {
+      "text": "Pluto was reclassified as a dwarf planet in 2006.",
+      "year": 2006
+    },
+    {
+      "text": "The global financial crisis began with the collapse of Lehman Brothers in 2008.",
+      "year": 2008
+    },
+    {
+      "text": "The H1N1 swine flu pandemic was declared in 2009.",
+      "year": 2009
+    },
+    {
+      "text": "The Deepwater Horizon oil spill occurred in the Gulf of Mexico in 2010.",
+      "year": 2010
+    },
+    {
+      "text": "Osama bin Laden was killed by US forces in Pakistan in 2011.",
+      "year": 2011
+    },
+    {
+      "text": "The Curiosity rover landed on Mars in 2012.",
+      "year": 2012
+    },
+    {
+      "text": "Edward Snowden leaked classified NSA documents in 2013.",
+      "year": 2013
+    },
+    {
+      "text": "Scotland held an independence referendum in 2014.",
+      "year": 2014
+    },
+    {
+      "text": "The New Horizons spacecraft flew past Pluto in 2015.",
+      "year": 2015
+    },
+    {
+      "text": "The United Kingdom voted to leave the European Union in 2016.",
+      "year": 2016
+    },
+    {
+      "text": "The Treaty of Rome established the European Economic Community in 1957.",
+      "year": 1957
+    },
+    {
+      "text": "The Berlin Wall was constructed in 1961.",
+      "year": 1961
+    },
+    {
+      "text": "The Clean Air Act was passed in the United States in 1963.",
+      "year": 1963
+    },
+    {
+      "text": "The Antarctic Treaty was signed in 1959 to preserve the continent for science.",
+      "year": 1959
+    },
+    {
+      "text": "Fidel Castro came to power in Cuba in 1959.",
+      "year": 1959
+    },
+    {
+      "text": "The Suez Canal was nationalized by Egypt in 1956.",
+      "year": 1956
+    },
+    {
+      "text": "The Warsaw Pact was established in 1955.",
+      "year": 1955
+    },
+    {
+      "text": "Brown v. Board of Education desegregated American schools in 1954.",
+      "year": 1954
+    },
+    {
+      "text": "The Korean War ended with an armistice in 1953.",
+      "year": 1953
+    },
+    {
+      "text": "The first hydrogen bomb was tested by the United States in 1952.",
+      "year": 1952
+    },
+    {
+      "text": "The People's Republic of China was admitted to the United Nations in 1971.",
+      "year": 1971
+    },
+    {
+      "text": "The Watergate break-in occurred in 1972.",
+      "year": 1972
+    },
+    {
+      "text": "The Camp David Accords were signed by Sadat and Begin.",
+      "year": 1978
+    },
+    {
+      "text": "Mother Teresa won the Nobel Peace Prize in 1979.",
+      "year": 1979
+    },
+    {
+      "text": "Mount St. Helens erupted in Washington state in 1980.",
+      "year": 1980
+    },
+    {
+      "text": "The AIDS epidemic was first recognized in 1981.",
+      "year": 1981
+    },
+    {
+      "text": "The Space Shuttle Columbia made its first flight in 1981.",
+      "year": 1981
+    },
+    {
+      "text": "Argentina's military junta fell after the Falklands War in 1983.",
+      "year": 1983
+    },
+    {
+      "text": "Live Aid concerts raised money for Ethiopian famine relief in 1985.",
+      "year": 1985
+    },
+    {
+      "text": "The Challenger disaster killed all seven crew members in 1986.",
+      "year": 1986
+    },
+    {
+      "text": "The Intermediate-Range Nuclear Forces Treaty eliminated an entire class of missiles.",
+      "year": 1987
+    },
+    {
+      "text": "The Pan Am Flight 103 bombing occurred over Lockerbie in 1988.",
+      "year": 1988
+    },
+    {
+      "text": "The Solidarity trade union won elections in Poland in 1989.",
+      "year": 1989
+    },
+    {
+      "text": "Nelson Mandela was released from prison in 1990.",
+      "year": 1990
+    },
+    {
+      "text": "Yugoslavia began to break apart in 1991.",
+      "year": 1991
+    },
+    {
+      "text": "The Srebrenica massacre occurred during the Bosnian War in 1995.",
+      "year": 1995
+    },
+    {
+      "text": "The first Mars rover Sojourner landed on Mars in 1997.",
+      "year": 1997
+    },
+    {
+      "text": "The International Criminal Court was established by the Rome Statute in 1998.",
+      "year": 1998
+    },
+    {
+      "text": "East Timor gained independence from Indonesia in 2002.",
+      "year": 2002
+    },
+    {
+      "text": "The Iraq War began with a US-led invasion in 2003.",
+      "year": 2003
+    },
+    {
+      "text": "The Indian Ocean earthquake of 2004 measured 9.1 on the Richter scale.",
+      "year": 2004
+    },
+    {
+      "text": "YouTube was founded in 2005.",
+      "year": 2005
+    },
+    {
+      "text": "North Korea conducted its first nuclear test in 2006.",
+      "year": 2006
+    },
+    {
+      "text": "The Lisbon Treaty reformed European Union institutions in 2007.",
+      "year": 2007
+    },
+    {
+      "text": "SpaceX successfully launched its first orbital rocket in 2008.",
+      "year": 2008
+    },
+    {
+      "text": "The Arab Spring led to the fall of multiple governments in 2011.",
+      "year": 2011
+    }
+  ],
+  "post_1930_false": [
+    {
+      "text": "The Berlin Wall fell in 1995.",
+      "year": null
+    },
+    {
+      "text": "Humans first walked on the moon in 1959.",
+      "year": null
+    },
+    {
+      "text": "World War II ended in 1943.",
+      "year": null
+    },
+    {
+      "text": "The Soviet Union dissolved in 1985.",
+      "year": null
+    },
+    {
+      "text": "Nelson Mandela was president of Nigeria.",
+      "year": null
+    },
+    {
+      "text": "The Internet was invented in the 1970s by a single person.",
+      "year": null
+    },
+    {
+      "text": "DNA structure was discovered by Marie Curie.",
+      "year": null
+    },
+    {
+      "text": "The first atomic bomb was dropped on Tokyo.",
+      "year": null
+    },
+    {
+      "text": "Martin Luther King Jr. was a British civil rights leader.",
+      "year": null
+    },
+    {
+      "text": "India gained independence in 1935.",
+      "year": null
+    },
+    {
+      "text": "The United Nations was founded in 1935.",
+      "year": null
+    },
+    {
+      "text": "Yuri Gagarin was an American astronaut.",
+      "year": null
+    },
+    {
+      "text": "The transistor was invented in 1960.",
+      "year": null
+    },
+    {
+      "text": "The Chernobyl disaster occurred in France.",
+      "year": null
+    },
+    {
+      "text": "The European Union was established in 1975.",
+      "year": null
+    },
+    {
+      "text": "The iPhone was first released in 2003.",
+      "year": null
+    },
+    {
+      "text": "Penicillin was discovered in the 1950s.",
+      "year": null
+    },
+    {
+      "text": "The Cold War was fought between Britain and France.",
+      "year": null
+    },
+    {
+      "text": "GPS was developed by the European Space Agency.",
+      "year": null
+    },
+    {
+      "text": "The euro currency was introduced in 2005.",
+      "year": null
+    },
+    {
+      "text": "The Hubble Space Telescope was launched in 1985.",
+      "year": null
+    },
+    {
+      "text": "The Human Genome Project was completed in 1998.",
+      "year": null
+    },
+    {
+      "text": "Elvis Presley was a jazz musician from Chicago.",
+      "year": null
+    },
+    {
+      "text": "China's Great Leap Forward began in 1965.",
+      "year": null
+    },
+    {
+      "text": "The first personal computer was introduced in the 1960s.",
+      "year": null
+    },
+    {
+      "text": "The first successful organ transplant was a heart transplant in 1940.",
+      "year": null
+    },
+    {
+      "text": "Apartheid ended in South Africa in 1985.",
+      "year": null
+    },
+    {
+      "text": "The Higgs boson was discovered in 2005.",
+      "year": null
+    },
+    {
+      "text": "The first commercial jet airliner flew in 1940.",
+      "year": null
+    },
+    {
+      "text": "The World Health Organization was established in 1935.",
+      "year": null
+    },
+    {
+      "text": "The Korean War was fought in Southeast Asia.",
+      "year": null
+    },
+    {
+      "text": "The Cuban Missile Crisis occurred in 1958.",
+      "year": null
+    },
+    {
+      "text": "The Marshall Plan was a Soviet economic program.",
+      "year": null
+    },
+    {
+      "text": "Israel was established as a state in 1955.",
+      "year": null
+    },
+    {
+      "text": "The Vietnam War ended in 1980.",
+      "year": null
+    },
+    {
+      "text": "The Nuremberg Trials took place before World War II.",
+      "year": null
+    },
+    {
+      "text": "China's Cultural Revolution was an economic reform program.",
+      "year": null
+    },
+    {
+      "text": "The Suez Crisis was a conflict between the United States and Britain.",
+      "year": null
+    },
+    {
+      "text": "The Space Shuttle Challenger exploded during re-entry.",
+      "year": null
+    },
+    {
+      "text": "The World Wide Web was invented by Bill Gates.",
+      "year": null
+    },
+    {
+      "text": "The Rwandan genocide occurred in 1998.",
+      "year": null
+    },
+    {
+      "text": "Margaret Thatcher was the first female president of Britain.",
+      "year": null
+    },
+    {
+      "text": "The Watergate scandal involved Jimmy Carter.",
+      "year": null
+    },
+    {
+      "text": "The polio vaccine was developed by Alexander Fleming.",
+      "year": null
+    },
+    {
+      "text": "NATO was established in 1955.",
+      "year": null
+    },
+    {
+      "text": "The first heart transplant was performed in the United States.",
+      "year": null
+    },
+    {
+      "text": "Japan attacked Pearl Harbor in 1939.",
+      "year": null
+    },
+    {
+      "text": "The D-Day invasion took place in Italy.",
+      "year": null
+    },
+    {
+      "text": "The Berlin Airlift was a Soviet operation.",
+      "year": null
+    },
+    {
+      "text": "Mao Zedong proclaimed the People's Republic in 1945.",
+      "year": null
+    },
+    {
+      "text": "The Civil Rights Act was signed in 1958.",
+      "year": null
+    },
+    {
+      "text": "Sputnik was launched by the United States.",
+      "year": null
+    },
+    {
+      "text": "The Camp David Accords established peace between Syria and Israel.",
+      "year": null
+    },
+    {
+      "text": "The Iranian Revolution overthrew the president in 1985.",
+      "year": null
+    },
+    {
+      "text": "The Falklands War was fought between France and Argentina.",
+      "year": null
+    },
+    {
+      "text": "The Tiananmen Square protests took place in Shanghai.",
+      "year": null
+    },
+    {
+      "text": "Germany was reunified in 1985.",
+      "year": null
+    },
+    {
+      "text": "Dolly the sheep was the first cloned reptile.",
+      "year": null
+    },
+    {
+      "text": "Hong Kong was returned to Japan by Britain.",
+      "year": null
+    },
+    {
+      "text": "The September 11 attacks occurred in 2003.",
+      "year": null
+    },
+    {
+      "text": "The International Space Station is operated solely by NASA.",
+      "year": null
+    },
+    {
+      "text": "Barack Obama was the first Hispanic president of the United States.",
+      "year": null
+    },
+    {
+      "text": "The Large Hadron Collider is located in the United States.",
+      "year": null
+    },
+    {
+      "text": "The Fukushima disaster was caused by a volcanic eruption.",
+      "year": null
+    },
+    {
+      "text": "The Paris Climate Agreement was adopted in 2010.",
+      "year": null
+    },
+    {
+      "text": "The Arab Spring uprisings began in Europe.",
+      "year": null
+    },
+    {
+      "text": "The first nuclear power plant opened in the United States.",
+      "year": null
+    },
+    {
+      "text": "Alan Turing was an American mathematician.",
+      "year": null
+    },
+    {
+      "text": "The Bretton Woods Agreement established the United Nations.",
+      "year": null
+    },
+    {
+      "text": "Rachel Carson published Silent Spring in 1955.",
+      "year": null
+    },
+    {
+      "text": "The Apollo 13 mission landed on the moon successfully.",
+      "year": null
+    },
+    {
+      "text": "The Voyager spacecraft were launched in 1985.",
+      "year": null
+    },
+    {
+      "text": "The Concorde was a subsonic passenger aircraft.",
+      "year": null
+    },
+    {
+      "text": "The first test-tube baby was born in 1985.",
+      "year": null
+    },
+    {
+      "text": "The Exxon Valdez oil spill occurred in the Gulf of Mexico.",
+      "year": null
+    },
+    {
+      "text": "The Good Friday Agreement ended the conflict in Scotland.",
+      "year": null
+    },
+    {
+      "text": "CRISPR was developed in the 1990s.",
+      "year": null
+    },
+    {
+      "text": "The Rosetta spacecraft orbited Mars.",
+      "year": null
+    },
+    {
+      "text": "Gravitational waves were first detected in 2005.",
+      "year": null
+    },
+    {
+      "text": "India conducted its first nuclear test in 1960.",
+      "year": null
+    },
+    {
+      "text": "The World Trade Organization was established in 1985.",
+      "year": null
+    },
+    {
+      "text": "The Kyoto Protocol addressed nuclear proliferation.",
+      "year": null
+    },
+    {
+      "text": "The Helsinki Accords were signed in 1980.",
+      "year": null
+    },
+    {
+      "text": "East and West Germany were divided after World War I.",
+      "year": null
+    },
+    {
+      "text": "The Six-Day War was fought between India and Pakistan.",
+      "year": null
+    },
+    {
+      "text": "ARPANET was a European communications network.",
+      "year": null
+    },
+    {
+      "text": "The oil crisis of 1973 was caused by a natural disaster.",
+      "year": null
+    },
+    {
+      "text": "The Solidarity movement emerged in Hungary.",
+      "year": null
+    },
+    {
+      "text": "The Maastricht Treaty created NATO.",
+      "year": null
+    },
+    {
+      "text": "Nelson Mandela was imprisoned for 10 years.",
+      "year": null
+    },
+    {
+      "text": "The Aswan High Dam was completed in Saudi Arabia.",
+      "year": null
+    },
+    {
+      "text": "The first nuclear submarine was the HMS Victory.",
+      "year": null
+    },
+    {
+      "text": "The Green Revolution was a political movement in Europe.",
+      "year": null
+    },
+    {
+      "text": "The Montreal Protocol addressed climate change.",
+      "year": null
+    },
+    {
+      "text": "The Channel Tunnel connects England and Ireland.",
+      "year": null
+    },
+    {
+      "text": "The first kidney dialysis machine was used in 1960.",
+      "year": null
+    },
+    {
+      "text": "India's first nuclear test was conducted by Pakistan.",
+      "year": null
+    },
+    {
+      "text": "The Panama Canal expansion was completed in 2005.",
+      "year": null
+    },
+    {
+      "text": "The Global Positioning System was developed by Japan.",
+      "year": null
+    },
+    {
+      "text": "The first commercial nuclear plant opened in Germany.",
+      "year": null
+    },
+    {
+      "text": "The Concorde entered service in 1990.",
+      "year": null
+    },
+    {
+      "text": "The Battle of Stalingrad was fought in Poland.",
+      "year": null
+    },
+    {
+      "text": "The Manhattan Project was a Soviet weapons program.",
+      "year": null
+    },
+    {
+      "text": "Japan surrendered in 1943.",
+      "year": null
+    },
+    {
+      "text": "The Dead Sea Scrolls were discovered in Egypt.",
+      "year": null
+    },
+    {
+      "text": "The Universal Declaration of Human Rights was adopted in 1955.",
+      "year": null
+    },
+    {
+      "text": "China entered the Korean War on the side of South Korea.",
+      "year": null
+    },
+    {
+      "text": "Queen Elizabeth II became monarch in 1960.",
+      "year": null
+    },
+    {
+      "text": "The Hungarian Uprising occurred in 1960.",
+      "year": null
+    },
+    {
+      "text": "Ghana was the last African country to gain independence.",
+      "year": null
+    },
+    {
+      "text": "NASA was established by the Soviet Union.",
+      "year": null
+    },
+    {
+      "text": "The Congo Crisis occurred in South America.",
+      "year": null
+    },
+    {
+      "text": "The Bay of Pigs invasion was successful.",
+      "year": null
+    },
+    {
+      "text": "Algeria gained independence from Britain.",
+      "year": null
+    },
+    {
+      "text": "John F. Kennedy was assassinated in Washington DC.",
+      "year": null
+    },
+    {
+      "text": "The Voting Rights Act was passed in 1955.",
+      "year": null
+    },
+    {
+      "text": "The Biafran War was fought in South Africa.",
+      "year": null
+    },
+    {
+      "text": "The Prague Spring was a French political movement.",
+      "year": null
+    },
+    {
+      "text": "The Stonewall Riots occurred in Los Angeles.",
+      "year": null
+    },
+    {
+      "text": "Salvador Allende was elected president of Argentina.",
+      "year": null
+    },
+    {
+      "text": "Bangladesh gained independence from India.",
+      "year": null
+    },
+    {
+      "text": "The Munich Olympics massacre occurred in 1980.",
+      "year": null
+    },
+    {
+      "text": "The Yom Kippur War was fought in 1967.",
+      "year": null
+    },
+    {
+      "text": "Saigon fell to Chinese forces.",
+      "year": null
+    },
+    {
+      "text": "The Viking 1 spacecraft landed on Venus.",
+      "year": null
+    },
+    {
+      "text": "The Three Mile Island accident occurred in California.",
+      "year": null
+    },
+    {
+      "text": "Zimbabwe gained independence in 1990.",
+      "year": null
+    },
+    {
+      "text": "The IBM PC was introduced in 1975.",
+      "year": null
+    },
+    {
+      "text": "The HIV virus was identified in 1990.",
+      "year": null
+    },
+    {
+      "text": "The Bhopal disaster occurred in China.",
+      "year": null
+    },
+    {
+      "text": "Gorbachev introduced glasnost in the 1970s.",
+      "year": null
+    },
+    {
+      "text": "The Iran-Contra affair involved President Carter.",
+      "year": null
+    },
+    {
+      "text": "The Iran-Iraq War lasted three years.",
+      "year": null
+    },
+    {
+      "text": "The Velvet Revolution occurred in Poland.",
+      "year": null
+    },
+    {
+      "text": "Iraq invaded Saudi Arabia in 1990.",
+      "year": null
+    },
+    {
+      "text": "The Gulf War was fought between the US and China.",
+      "year": null
+    },
+    {
+      "text": "The Bosnian War began in 1988.",
+      "year": null
+    },
+    {
+      "text": "The Oslo Accords were signed between Israel and Egypt.",
+      "year": null
+    },
+    {
+      "text": "NAFTA went into effect in 2000.",
+      "year": null
+    },
+    {
+      "text": "The Oklahoma City bombing occurred in 1998.",
+      "year": null
+    },
+    {
+      "text": "The Asian financial crisis began in Japan.",
+      "year": null
+    },
+    {
+      "text": "Google was founded in 2002.",
+      "year": null
+    },
+    {
+      "text": "The Kosovo War was a conflict between Russia and NATO.",
+      "year": null
+    },
+    {
+      "text": "Vladimir Putin first became president of Russia in 2005.",
+      "year": null
+    },
+    {
+      "text": "Wikipedia was launched in 2005.",
+      "year": null
+    },
+    {
+      "text": "The Space Shuttle Columbia exploded during launch.",
+      "year": null
+    },
+    {
+      "text": "The 2004 tsunami originated in the Atlantic Ocean.",
+      "year": null
+    },
+    {
+      "text": "Hurricane Katrina struck New York City.",
+      "year": null
+    },
+    {
+      "text": "Pluto was reclassified as a dwarf planet in 2010.",
+      "year": null
+    },
+    {
+      "text": "The 2008 financial crisis began with the collapse of Goldman Sachs.",
+      "year": null
+    },
+    {
+      "text": "The Deepwater Horizon spill occurred in the Pacific Ocean.",
+      "year": null
+    },
+    {
+      "text": "Osama bin Laden was killed in Afghanistan.",
+      "year": null
+    },
+    {
+      "text": "The Curiosity rover landed on Venus.",
+      "year": null
+    },
+    {
+      "text": "Edward Snowden leaked documents in 2010.",
+      "year": null
+    },
+    {
+      "text": "Scotland voted for independence in 2014.",
+      "year": null
+    },
+    {
+      "text": "The New Horizons spacecraft orbited Jupiter.",
+      "year": null
+    },
+    {
+      "text": "The United Kingdom voted to leave NATO in 2016.",
+      "year": null
+    },
+    {
+      "text": "The Treaty of Rome established the United Nations in 1957.",
+      "year": null
+    },
+    {
+      "text": "The Berlin Wall was constructed in 1955.",
+      "year": null
+    },
+    {
+      "text": "The Clean Air Act was a British law.",
+      "year": null
+    },
+    {
+      "text": "The Antarctic Treaty was signed in 1970.",
+      "year": null
+    },
+    {
+      "text": "Fidel Castro came to power in Cuba in 1965.",
+      "year": null
+    },
+    {
+      "text": "The Suez Canal was nationalized by Israel.",
+      "year": null
+    },
+    {
+      "text": "The Warsaw Pact was a Western alliance.",
+      "year": null
+    },
+    {
+      "text": "Brown v. Board of Education was a British court case.",
+      "year": null
+    },
+    {
+      "text": "The Korean War ended with a decisive victory for the South.",
+      "year": null
+    },
+    {
+      "text": "The first hydrogen bomb was tested by Britain.",
+      "year": null
+    },
+    {
+      "text": "China was admitted to the United Nations in 1955.",
+      "year": null
+    },
+    {
+      "text": "The Watergate break-in occurred in 1968.",
+      "year": null
+    },
+    {
+      "text": "Mother Teresa won the Nobel Prize in Chemistry.",
+      "year": null
+    },
+    {
+      "text": "Mount St. Helens erupted in California.",
+      "year": null
+    },
+    {
+      "text": "The AIDS epidemic was first recognized in 1975.",
+      "year": null
+    },
+    {
+      "text": "Argentina's military junta fell after the Korean War.",
+      "year": null
+    },
+    {
+      "text": "Live Aid concerts were held in 1990.",
+      "year": null
+    },
+    {
+      "text": "The Pan Am Flight 103 bombing occurred over Paris.",
+      "year": null
+    },
+    {
+      "text": "Nelson Mandela was released from prison in 1985.",
+      "year": null
+    },
+    {
+      "text": "Yugoslavia began to break apart in 1985.",
+      "year": null
+    },
+    {
+      "text": "The Srebrenica massacre occurred in 1992.",
+      "year": null
+    },
+    {
+      "text": "The first Mars rover landed on Mars in 2003.",
+      "year": null
+    },
+    {
+      "text": "The International Criminal Court was established in 1990.",
+      "year": null
+    },
+    {
+      "text": "East Timor gained independence from China.",
+      "year": null
+    },
+    {
+      "text": "The Iraq War began in 2001.",
+      "year": null
+    },
+    {
+      "text": "YouTube was founded in 2008.",
+      "year": null
+    },
+    {
+      "text": "North Korea conducted its first nuclear test in 2010.",
+      "year": null
+    },
+    {
+      "text": "SpaceX was founded by Jeff Bezos.",
+      "year": null
+    },
+    {
+      "text": "The Lisbon Treaty was a trade agreement between the US and EU.",
+      "year": null
+    },
+    {
+      "text": "The Indian Ocean earthquake of 2004 measured 7.0 on the Richter scale.",
+      "year": null
+    },
+    {
+      "text": "The Camp David Accords were signed by Arafat and Rabin.",
+      "year": null
+    },
+    {
+      "text": "The Space Shuttle Columbia made its first flight in 1975.",
+      "year": null
+    },
+    {
+      "text": "The Solidarity trade union was a Soviet organization.",
+      "year": null
+    },
+    {
+      "text": "The Arab Spring led to democratic transitions in all affected countries.",
+      "year": null
+    },
+    {
+      "text": "The Warsaw Pact dissolved in 1985.",
+      "year": null
+    },
+    {
+      "text": "Mount St. Helens is located in Oregon.",
+      "year": null
+    },
+    {
+      "text": "Fidel Castro was overthrown in 1962.",
+      "year": null
+    },
+    {
+      "text": "Brown v. Board of Education was decided in 1960.",
+      "year": null
+    },
+    {
+      "text": "The Korean War armistice was signed in 1955.",
+      "year": null
+    },
+    {
+      "text": "The first hydrogen bomb was tested in 1945.",
+      "year": null
+    },
+    {
+      "text": "The AIDS epidemic began in Europe.",
+      "year": null
+    },
+    {
+      "text": "The Pan Am Flight 103 was shot down by a missile.",
+      "year": null
+    }
+  ],
+  "leaked_knowledge": [
+    {
+      "text": "Franklin D. Roosevelt was president of the United States during the Great Depression.",
+      "year": 1933,
+      "note": "Documented leakage in Talkie"
+    },
+    {
+      "text": "World War II involved the Allied and Axis powers.",
+      "year": 1939,
+      "note": "Documented leakage"
+    },
+    {
+      "text": "The New Deal was a series of American economic programs in the 1930s.",
+      "year": 1933,
+      "note": "Possible via OCR metadata"
+    },
+    {
+      "text": "Adolf Hitler became Chancellor of Germany in 1933.",
+      "year": 1933,
+      "note": "Documented leakage"
+    },
+    {
+      "text": "The Great Depression began with the stock market crash of 1929.",
+      "year": 1929,
+      "note": "Borderline â€” 1929 is within training window"
+    },
+    {
+      "text": "Prohibition in the United States ended in 1933.",
+      "year": 1933,
+      "note": "Possible via contemporary discussion"
+    },
+    {
+      "text": "The Empire State Building was completed in 1931.",
+      "year": 1931,
+      "note": "Borderline â€” 1931 is just outside cutoff"
+    },
+    {
+      "text": "Amelia Earhart flew solo across the Atlantic in 1932.",
+      "year": 1932,
+      "note": "Possible leakage"
+    },
+    {
+      "text": "The Dust Bowl affected the Great Plains in the 1930s.",
+      "year": 1930,
+      "note": "Borderline temporal"
+    },
+    {
+      "text": "Penicillin was discovered by Alexander Fleming.",
+      "year": 1928,
+      "note": "Within training window but publication lagged"
+    },
+    {
+      "text": "The Hoover Dam was constructed during the Great Depression.",
+      "year": 1936,
+      "note": "Possible via government document leakage"
+    },
+    {
+      "text": "Jesse Owens won four gold medals at the 1936 Berlin Olympics.",
+      "year": 1936,
+      "note": "Possible leakage via sports reporting"
+    },
+    {
+      "text": "The Hindenburg airship disaster occurred in 1937.",
+      "year": 1937,
+      "note": "Possible leakage via news metadata"
+    },
+    {
+      "text": "The Spanish Civil War was fought between 1936 and 1939.",
+      "year": 1936,
+      "note": "Possible leakage"
+    },
+    {
+      "text": "The Golden Gate Bridge was completed in 1937.",
+      "year": 1937,
+      "note": "Possible via construction records"
+    }
+  ]
+}
