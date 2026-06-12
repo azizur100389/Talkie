@@ -1,0 +1,12 @@
+torch>=2.0
+numpy
+scipy
+scikit-learn
+pandas
+tiktoken
+huggingface_hub
+datasets
+matplotlib
+seaborn
+tqdm
+umap-learn
