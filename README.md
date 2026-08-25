@@ -70,10 +70,11 @@ produce the paper results):
 
 ```bash
 # 1. (optional) Re-mine post-1930 facts that leaked into the pre-1931 corpus.
-#    The shipped dataset already includes the 22 identified leaked items, so this
-#    is only needed to rebuild the dataset from scratch.
+#    data/temporal_facts.json already ships with all 819 items, including the
+#    22 leaked ones (15 documented + 7 recovered by mining), so this step is
+#    only needed to rebuild the dataset from scratch.
 python mine_leaked_knowledge.py
-python expand_dataset.py
+python expand_dataset.py --leaked-file results/leaked_candidates.json
 
 # 2. Core experiments
 python run_all.py --exp 1

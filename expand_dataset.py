@@ -18,7 +18,7 @@ import config
 
 def load_leaked_candidates(path):
     """Load leaked candidates from the mining script output."""
-    with open(path) as f:
+    with open(path, encoding="utf-8") as f:
         data = json.load(f)
     return data.get("leaked_candidates", [])
 
@@ -71,7 +71,7 @@ def generate_paraphrases(text):
 def expand_dataset(leaked_file=None):
     """Expand the temporal facts dataset."""
     data_path = config.DATA_DIR / "temporal_facts.json"
-    with open(data_path) as f:
+    with open(data_path, encoding="utf-8") as f:
         data = json.load(f)
 
     print(f"Current dataset sizes:")
@@ -119,12 +119,12 @@ def expand_dataset(leaked_file=None):
     # 3. Save expanded dataset
     expanded = {**data, **paraphrase_data}
     out_path = config.DATA_DIR / "temporal_facts_expanded.json"
-    with open(out_path, "w") as f:
+    with open(out_path, "w", encoding="utf-8") as f:
         json.dump(expanded, f, indent=2, ensure_ascii=False)
     print(f"\n  Expanded dataset saved to {out_path}")
 
     # Also update the original dataset with new leaked items
-    with open(data_path, "w") as f:
+    with open(data_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
     print(f"  Updated original dataset at {data_path}")
 

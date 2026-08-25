@@ -3270,6 +3270,48 @@
       "text": "The Golden Gate Bridge was completed in 1937.",
       "year": 1937,
       "note": "Possible via construction records"
+    },
+    {
+      "text": "Adolf Hitler became Chancellor of Germany in 1933",
+      "year": 1933,
+      "source": "mined",
+      "domain": "general"
+    },
+    {
+      "text": "The Golden Gate Bridge is located in San Francisco",
+      "year": 1937,
+      "source": "mined",
+      "domain": "general"
+    },
+    {
+      "text": "The New Deal was a series of programs by President Roosevelt",
+      "year": 1933,
+      "source": "mined",
+      "domain": "general"
+    },
+    {
+      "text": "The stock market crashed in October 1929",
+      "year": 1929,
+      "source": "mined",
+      "domain": "general"
+    },
+    {
+      "text": "The Nazis held the Nuremberg rallies in the city of Nuremberg",
+      "year": 1933,
+      "source": "mined",
+      "domain": "general"
+    },
+    {
+      "text": "The Smoot-Hawley Tariff Act was signed in 1930",
+      "year": 1930,
+      "source": "mined",
+      "domain": "general"
+    },
+    {
+      "text": "The first talking motion picture was The Jazz Singer",
+      "year": 1927,
+      "source": "mined",
+      "domain": "general"
     }
   ]
 }
